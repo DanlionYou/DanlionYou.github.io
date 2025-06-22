@@ -6,8 +6,8 @@
     <link>https://javaguide.cn/</link>
     <description>「Java 学习指北 + Java 面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，复习 Java 知识点，首选 JavaGuide！  </description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Jun 2025 03:44:23 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Jun 2025 03:44:23 GMT</lastBuildDate>
+    <pubDate>Sun, 22 Jun 2025 03:47:08 GMT</pubDate>
+    <lastBuildDate>Sun, 22 Jun 2025 03:47:08 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>走近作者</category>
@@ -29,7 +29,7 @@
       <guid>https://javaguide.cn/home.html</guid>
       <source url="https://javaguide.cn/rss.xml">JavaGuide（Java学习&amp;面试指南）</source>
       <description>友情提示 面试专版：准备 Java 面试的小伙伴可以考虑面试专版： (质量很高，专为面试打造，配合 JavaGuide 食用)。 知识星球：专属面试小册/一对一交流/简历修改/专属求职指南，欢迎加入 （点击链接即可查看星球的详细介绍，一定确定自己真的需要再加入）。 使用建议 ：有水平的面试官都是顺着项目经历挖掘技术问题。一定不要死记硬背技术八股文！详细...</description>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">友情提示</p>
 <ul>
@@ -413,7 +413,7 @@
       <source url="https://javaguide.cn/rss.xml">个人介绍 Q&amp;A</source>
       <description>这是一则或许对你有用的小广告 面试专版：准备 Java 面试的小伙伴可以考虑面试专版： (质量非常高，专为面试打造，配合 JavaGuide 食用效果最佳)。 知识星球：技术专栏/一对一提问/简历修改/求职指南/面试打卡/不定时福利，欢迎加入 。 这篇文章我会通过 Q&amp;A 的形式简单介绍一下我自己。 我是什么时候毕业的？ 很多老读者应该比较清楚，我是 ...</description>
       <category>走近作者</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -463,7 +463,7 @@
       <source url="https://javaguide.cn/rss.xml">已经淘汰的 Java 技术，不要再学了！</source>
       <description>前几天，我在知乎上随手回答了一个问题：“Java 学到 JSP 就学不下去了，怎么办？”。 出于不想让别人走弯路的心态，我回答说：已经淘汰的技术就不要学了，并顺带列举了一些在 Java 开发领域中已经被淘汰的技术。 已经淘汰的 Java 技术 我的回答原内容如下，列举了一些在 Java 开发领域中已经被淘汰的技术： JSP 原因：JSP 已经过时，无法...</description>
       <category>走近作者</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>前几天，我在知乎上随手回答了一个问题：“Java 学到 JSP 就学不下去了，怎么办？”。</p>
 <p>出于不想让别人走弯路的心态，我回答说：已经淘汰的技术就不要学了，并顺带列举了一些在 Java 开发领域中已经被淘汰的技术。</p>
 <h2>已经淘汰的 Java 技术</h2>
@@ -547,7 +547,7 @@
       <source url="https://javaguide.cn/rss.xml">抄袭狗，你冬天睡觉脚必冷！！！</source>
       <description>抄袭狗真的太烦了。。。 听朋友说我的文章在知乎又被盗了，原封不动地被别人用来引流。 而且！！！这还不是最气的。 这人还在文末注明的原出处还不是我的。。。 也就是说 CSDN 有另外一位抄袭狗盗了我的这篇文章并声明了原创，知乎抄袭狗又原封不动地搬运了这位 CSDN 抄袭狗的文章。 真可谓离谱他妈给离谱开门，离谱到家了。 我打开知乎抄袭狗注明的原出处链接，...</description>
       <category>走近作者</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>抄袭狗真的太烦了。。。</p>
 <p>听朋友说我的文章在知乎又被盗了，原封不动地被别人用来引流。</p>
 <p><img src="https://oss.javaguide.cn/p3-juejin/39f223bd8d8240b8b7328f7ab6edbc57~tplv-k3u1fbpfcp-zoom-1.png" alt=""></p>
@@ -583,7 +583,7 @@
       <source url="https://javaguide.cn/rss.xml">入职培训一个月后的感受</source>
       <description>不知不觉已经入职一个多月了，在入职之前我没有在某个公司实习过或者工作过，所以很多东西刚入职工作的我来说还是比较新颖的。学校到职场的转变，带来了角色的转变，其中的差别因人而异。对我而言，在学校的时候课堂上老师课堂上教的东西，自己会根据自己的兴趣选择性接受，甚至很多课程你不想去上的话，还可以逃掉。到了公司就不一样了，公司要求你会的技能你不得不学，除非你不想...</description>
       <category>走近作者</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>不知不觉已经入职一个多月了，在入职之前我没有在某个公司实习过或者工作过，所以很多东西刚入职工作的我来说还是比较新颖的。学校到职场的转变，带来了角色的转变，其中的差别因人而异。对我而言，在学校的时候课堂上老师课堂上教的东西，自己会根据自己的兴趣选择性接受，甚至很多课程你不想去上的话，还可以逃掉。到了公司就不一样了，公司要求你会的技能你不得不学，除非你不想干了。在学校的时候大部分人编程的目的都是为了通过考试或者找到一份好工作，真正靠自己兴趣支撑起来的很少，到了工作岗位之后我们编程更多的是因为工作的要求，相比于学校的来说会一般会更有挑战而且压力更大。在学校的时候，我们最重要的就是对自己负责，我们不断学习知识去武装自己，但是到了公司之后我们不光要对自己负责，更要对公司负责，毕竟公司出钱请你过来，不是让你一直 on beach 的。</p>
 <p>刚来公司的时候，因为公司要求，我换上了 Mac 电脑。由于之前一直用的是 Windows 系统，所以非常不习惯。刚开始用 Mac 系统的时候笨手笨脚，自己会很明显的感觉自己的编程效率降低了至少 3 成。当时内心还是挺不爽的，心里也总是抱怨为什么不直接用 Windows 系统或者 Linux 系统。不过也挺奇怪，大概一个星期之后，自己就开始慢慢适应使用 Mac 进行编程，甚至非常喜欢。我这里不想对比 Mac 和 Windows 编程体验哪一个更好，我觉得还是因人而异，相同价位的 Mac 的配置相比于 Windows 确实要被甩几条街。不过 Mac 的编程和使用体验确实不错，当然你也可以选择使用 Linux 进行日常开发，相信一定很不错。 另外，Mac 不能玩一些主流网络游戏，对于一些克制不住自己想玩游戏的朋友是一个不错的选择。</p>
 <p>不得不说 ThoughtWorks 的培训机制还是很不错的。应届生入职之后一般都会安排培训，与往年不同的是，今年的培训多了中国本地班（TWU-C）。作为本地班的第一期学员，说句心里话还是很不错。8 周的培训，除了工作需要用到的基本技术比如 ES6、SpringBoot 等等之外，还会增加一些新员工基本技能的培训比如如何高效开会、如何给别人正确的提 Feedback、如何对代码进行重构、如何进行 TDD 等等。培训期间不定期的有活动，比如 Weekend Trip、 City Tour、Cake time 等等。最后三周还会有一个实际的模拟项目，这个项目基本和我们正式工作的实际项目差不多，我个人感觉很不错。目前这个项目已经正式完成了一个迭代，我觉得在做项目的过程中，收获最大的不是项目中使用的技术，而是如何进行团队合作、如何正确使用 Git 团队协同开发、一个完成的迭代是什么样子的、做项目的过程中可能遇到那些问题、一个项目运作的完整流程等等。</p>
@@ -603,7 +603,7 @@
       <source url="https://javaguide.cn/rss.xml">从毕业到入职半年的感受</source>
       <description>如果大家看过我之前的介绍的话，就会知道我是 19 年毕业的几百万应届毕业生中的一员。这篇文章主要讲了一下我入职大半年的感受，文中有很多自己的主观感受，如果你们有任何不认同的地方都可以直接在评论区说出来，会很尊重其他人的想法。 简单说一下自己的情况吧！我目前是在一家外企，每天的工作和大部分人一样就是做开发。毕业到现在，差不多也算是工作半年多了，也已经过了...</description>
       <category>走近作者</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>如果大家看过我之前的介绍的话，就会知道我是 19 年毕业的几百万应届毕业生中的一员。这篇文章主要讲了一下我入职大半年的感受，文中有很多自己的主观感受，如果你们有任何不认同的地方都可以直接在评论区说出来，会很尊重其他人的想法。</p>
 <p>简单说一下自己的情况吧！我目前是在一家外企，每天的工作和大部分人一样就是做开发。毕业到现在，差不多也算是工作半年多了，也已经过了公司 6 个月的试用期。目前在公司做过两个偏向于业务方向的项目，其中一个正在做。你很难想象我在公司做的两个业务项目的后端都没有涉及到分布式/微服务，没有接触到 Redis、Kafka 等等比较“高大上”的技术在项目中的实际运用。</p>
 <p>第一个项目做的是公司的内部项目——员工成长系统。抛去员工成长系统这个名字，实际上这个系统做的就是绩效考核比如你在某个项目组的表现。这个项目的技术是 Spring Boot+ JPA + Spring Security + K8S + Docker + React。第二个目前正在做的是一个集成游戏 (cocos)、Web 管理端 (Spring Boot + Vue) 和小程序 (Taro) 项目。</p>
@@ -646,7 +646,7 @@
       <source url="https://javaguide.cn/rss.xml">我曾经也是网瘾少年</source>
       <description>这篇文章写于 2021 年高考前夕。 聊到高考，无数人都似乎有很多话说。今天就假借高考的名义，简单来聊聊我的高中求学经历吧！ 说实话，我自己的高中求学经历真的还不算平淡，甚至有点魔幻，所以还是有很多话想要说的。 这篇文章大概会从我的初中一直介绍到高中，每一部分我都不会花太多篇幅，就简单聊聊吧！ 以下所有内容皆是事实，没有任何夸大的地方，稍微有一点点魔幻...</description>
       <category>走近作者</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>这篇文章写于 2021 年高考前夕。</p>
 </blockquote>
@@ -738,7 +738,7 @@
       <source url="https://javaguide.cn/rss.xml">JavaGuide 开源项目 100K Star 了！</source>
       <description>2021-03-21，晚上 12 点，肝完了我正在做的一个项目的前端的某块功能，我随手打开了我的 GitHub 主页。 好家伙！几天没注意，JavaGuide 这个项目直接上了 100K star。 JavaGuide 100k 里程碑 其实，这个真没啥好嘚瑟的。因为，教程类的含金量其实是比较低的，Star 数量比较多主要也是因为受众面比较广，大家觉得...</description>
       <category>走近作者</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>2021-03-21，晚上 12 点，肝完了我正在做的一个项目的前端的某块功能，我随手打开了<a href="https://github.com/Snailclimb" target="_blank" rel="noopener noreferrer">我的 GitHub 主页</a>。</p>
 <p>好家伙！几天没注意，<a href="https://github.com/Snailclimb/JavaGuide" target="_blank" rel="noopener noreferrer">JavaGuide</a> 这个项目直接上了 100K star。</p>
 <p><img src="https://oss.javaguide.cn/github/javaguide/1&amp;e=1643644799&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zANqh9HQEvvLPm6smyrjvjAt-Ik=.png" alt="JavaGuide 100k 里程碑"></p>
@@ -767,7 +767,7 @@
       <source url="https://javaguide.cn/rss.xml">某培训机构盗我文章做成视频还上了B站热门</source>
       <description>时间回到 2021-02-25，我在刷哔哩哔哩的时候发现，哔哩哔哩某 UP 主（某培训机构），擅自将我在知乎的一个回答做成了视频。 原滋原味啊！我艹。甚至，连我开头的自我调侃还加上了！真的牛皮！ 你盗我原创，视频你用心做好点也行啊！至少也可以让这么优质的内容得到传播嘛！ 结果，好家伙，视频做的像坨屎一样，配音也贼违和! 麻烦这个培训机构看到这篇文章之后...</description>
       <category>走近作者</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>时间回到 2021-02-25，我在刷哔哩哔哩的时候发现，哔哩哔哩某 UP 主（某培训机构），擅自将我在知乎的一个回答做成了视频。</p>
 <p>原滋原味啊！我艹。甚至，连我开头的自我调侃还加上了！真的牛皮！</p>
 <p>你盗我原创，视频你用心做好点也行啊！至少也可以让这么优质的内容得到传播嘛！</p>
@@ -811,7 +811,7 @@
       <source url="https://javaguide.cn/rss.xml">害，毕业三年了！</source>
       <description>关于初高中的生活，可以看 2020 年我写的 这篇文章。 2019 年 6 月份毕业，距今已经过去了 3 年。趁着高考以及应届生毕业之际，简单聊聊自己的大学生活。 下面是正文。 我本科毕业于荆州校区的长江大学，一所不起眼的双非一本。 在这里度过的四年大学生活还是过的挺开心的，直到现在，我依然非常怀念！ 在学校的这几年的生活，总体来说，还算是比较丰富多彩...</description>
       <category>走近作者</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>关于初高中的生活，可以看 2020 年我写的 <a href="/about-the-author/internet-addiction-teenager.html" target="_blank">我曾经也是网瘾少年</a> 这篇文章。</p>
 </blockquote>
@@ -1020,7 +1020,7 @@
       <source url="https://javaguide.cn/rss.xml">坚持写技术博客六年了!</source>
       <description>坚持写技术博客已经有六年了，也算是一个小小的里程碑了。 一开始，我写技术博客就是简单地总结自己课堂上学习的课程比如网络、操作系统。渐渐地，我开始撰写一些更为系统化的知识点详解和面试常见问题总结。 JavaGuide 首页 许多人都想写技术博客，但却不清楚这对他们有何好处。有些人开始写技术博客，却不知道如何坚持下去，也不知道该写些什么。这篇文章我会认真聊...</description>
       <category>走近作者</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>坚持写技术博客已经有六年了，也算是一个小小的里程碑了。</p>
 <p>一开始，我写技术博客就是简单地总结自己课堂上学习的课程比如网络、操作系统。渐渐地，我开始撰写一些更为系统化的知识点详解和面试常见问题总结。</p>
 <p><img src="https://oss.javaguide.cn/about-the-author/college-life/image-20230408131717766.png" alt="JavaGuide 首页"></p>
@@ -1120,7 +1120,7 @@
       <source url="https://javaguide.cn/rss.xml">我的知识星球 4 岁了！</source>
       <description>这是一则或许对你有用的小广告 面试专版：准备 Java 面试的小伙伴可以考虑面试专版： (质量非常高，专为面试打造，配合 JavaGuide 食用效果最佳)。 知识星球：技术专栏/一对一提问/简历修改/求职指南/面试打卡/不定时福利，欢迎加入 。 在 2019 年 12 月 29 号，经过了大概一年左右的犹豫期，我正式确定要开始做一个自己的星球，帮助学...</description>
       <category>知识星球</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -1218,7 +1218,7 @@
       <source url="https://javaguide.cn/rss.xml">技术书籍精选</source>
       <description>这是一则或许对你有用的小广告 面试专版：准备 Java 面试的小伙伴可以考虑面试专版： (质量非常高，专为面试打造，配合 JavaGuide 食用效果最佳)。 知识星球：技术专栏/一对一提问/简历修改/求职指南/面试打卡/不定时福利，欢迎加入 。 精选优质计算机书籍。 开源的目的是为了大家能一起完善，如果你觉得内容有任何需要完善/补充的地方，欢迎大家在...</description>
       <category>计算机书籍</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -1246,7 +1246,7 @@
       <source url="https://javaguide.cn/rss.xml">计算机基础必读经典书籍</source>
       <description>考虑到很多同学比较喜欢看视频，因此，这部分内容我不光会推荐书籍，还会顺便推荐一些我觉得不错的视频教程和各大高校的 Project。 操作系统 为什么要学习操作系统？ 从对个人能力方面提升来说，操作系统中的很多思想、很多经典的算法，你都可以在我们日常开发使用的各种工具或者框架中找到它们的影子。比如说我们开发的系统使用的缓存（比如 Redis）和操作系统的...</description>
       <category>计算机书籍</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>考虑到很多同学比较喜欢看视频，因此，这部分内容我不光会推荐书籍，还会顺便推荐一些我觉得不错的视频教程和各大高校的 Project。</p>
 <h2>操作系统</h2>
 <p><strong>为什么要学习操作系统？</strong></p>
@@ -1414,7 +1414,7 @@
       <source url="https://javaguide.cn/rss.xml">数据库必读经典书籍</source>
       <description>数据库基础 数据库基础这块，如果你觉得书籍比较枯燥，自己坚持不下来的话，我推荐你可以先看看一些不错的视频，北京师范大学的《数据库系统原理》、哈尔滨工业大学的《数据库系统（下）：管理与技术》就很不错。 《数据库系统原理》这个课程的老师讲的非常详细，而且每一小节的作业设计的也与所讲知识很贴合，后面还有很多配套实验。 如果你比较喜欢动手，对于理论知识比较抵触...</description>
       <category>计算机书籍</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>数据库基础</h2>
 <p>数据库基础这块，如果你觉得书籍比较枯燥，自己坚持不下来的话，我推荐你可以先看看一些不错的视频，北京师范大学的<a href="https://www.icourse163.org/course/BNU-1002842007" target="_blank" rel="noopener noreferrer">《数据库系统原理》</a>、哈尔滨工业大学的<a href="https://www.icourse163.org/course/HIT-1001578001" target="_blank" rel="noopener noreferrer">《数据库系统（下）：管理与技术》</a>就很不错。</p>
 <p><a href="https://www.icourse163.org/course/BNU-1002842007" target="_blank" rel="noopener noreferrer">《数据库系统原理》</a>这个课程的老师讲的非常详细，而且每一小节的作业设计的也与所讲知识很贴合，后面还有很多配套实验。</p>
@@ -1479,7 +1479,7 @@
       <source url="https://javaguide.cn/rss.xml">分布式必读经典书籍</source>
       <description>《深入理解分布式系统》 《深入理解分布式系统》 是 2022 年出版的一本分布式中文原创书籍，主要讲的是分布式领域的基本概念、常见挑战以及共识算法。 作者用了大量篇幅来介绍分布式领域中非常重要的共识算法，并且还会基于 Go 语言带着你从零实现了一个共识算法的鼻祖 Paxos 算法。 实话说，我还没有开始看这本书。但是！这本书的作者的博客上的分布式相关的...</description>
       <category>计算机书籍</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>《深入理解分布式系统》</h2>
 <p><img src="https://oss.javaguide.cn/github/javaguide/books/deep-understanding-of-distributed-system.png" alt=""></p>
 <p><strong><a href="https://book.douban.com/subject/35794814/" target="_blank" rel="noopener noreferrer">《深入理解分布式系统》</a></strong> 是 2022 年出版的一本分布式中文原创书籍，主要讲的是分布式领域的基本概念、常见挑战以及共识算法。</p>
@@ -1539,7 +1539,7 @@
       <source url="https://javaguide.cn/rss.xml">Java 必读经典书籍</source>
       <description>Java 基础 《Head First Java》 《Head First Java》-豆瓣 《Head First Java》这本书的内容很轻松有趣，可以说是我学习编程初期最喜欢的几本书之一了。同时，这本书也是我的 Java 启蒙书籍。我在学习 Java 的初期多亏了这本书的帮助，自己才算是跨进 Java 语言的大门。 我觉得我在 Java 这块能够...</description>
       <category>计算机书籍</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>Java 基础</h2>
 <p><strong><a href="https://book.douban.com/subject/2000732/" target="_blank" rel="noopener noreferrer">《Head First Java》</a></strong></p>
 <p><img src="https://oss.javaguide.cn/github/javaguide/books/image-20220424103035793.png" alt="《Head First Java》-豆瓣"></p>
@@ -1684,7 +1684,7 @@
       <source url="https://javaguide.cn/rss.xml">搜索引擎必读经典书籍</source>
       <description>Lucene Elasticsearch 在 Apache Lucene 的基础上开发而成，学习 ES 之前，建议简单了解一下 Lucene 的相关概念。 《Lucene 实战》 是国内为数不多的中文版本讲 Lucene 的书籍，适合用来学习和了解 Lucene 相关的概念和常见操作。 《Lucene实战》-实战 Elasticsearch 《一本书讲...</description>
       <category>计算机书籍</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>Lucene</h2>
 <p>Elasticsearch 在 Apache Lucene 的基础上开发而成，学习 ES 之前，建议简单了解一下 Lucene 的相关概念。</p>
 <p><strong><a href="https://book.douban.com/subject/6440615/" target="_blank" rel="noopener noreferrer">《Lucene 实战》</a></strong> 是国内为数不多的中文版本讲 Lucene 的书籍，适合用来学习和了解 Lucene 相关的概念和常见操作。</p>
@@ -1709,7 +1709,7 @@
       <source url="https://javaguide.cn/rss.xml">软件质量必读经典书籍</source>
       <description>下面推荐都是我看过并且我觉得值得推荐的书籍。 不过，这些书籍都比较偏理论，只能帮助你建立一个写优秀代码的意识标准。 如果你想要编写更高质量的代码、更高质量的软件，还是应该多去看优秀的源码，多去学习优秀的代码实践。 代码整洁之道 《重构》 必看书籍！无需多言。编程书籍领域的瑰宝。 世界顶级、国宝级别的 Martin Fowler 的书籍，可以说是软件开发...</description>
       <category>计算机书籍</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>下面推荐都是我看过并且我觉得值得推荐的书籍。</p>
 <p>不过，这些书籍都比较偏理论，只能帮助你建立一个写优秀代码的意识标准。 如果你想要编写更高质量的代码、更高质量的软件，还是应该多去看优秀的源码，多去学习优秀的代码实践。</p>
 <h2>代码整洁之道</h2>
@@ -1789,7 +1789,7 @@
       <source url="https://javaguide.cn/rss.xml">数据库基础知识总结</source>
       <description>这是一则或许对你有用的小广告 面试专版：准备 Java 面试的小伙伴可以考虑面试专版： (质量非常高，专为面试打造，配合 JavaGuide 食用效果最佳)。 知识星球：技术专栏/一对一提问/简历修改/求职指南/面试打卡/不定时福利，欢迎加入 。 数据库知识基础，这部分内容一定要理解记忆。虽然这部分内容只是理论知识，但是非常重要，这是后面学习 MySQ...</description>
       <category>数据库</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -1927,7 +1927,7 @@
       <source url="https://javaguide.cn/rss.xml">字符集详解</source>
       <description>MySQL 字符编码集中有两套 UTF-8 编码实现：utf8 和 utf8mb4。 如果使用 utf8 的话，存储 emoji 符号和一些比较复杂的汉字、繁体字就会出错。 为什么会这样呢？这篇文章可以从源头给你解答。 字符集是什么？ 字符是各种文字和符号的统称，包括各个国家文字、标点符号、表情、数字等等。 字符集 就是一系列字符的集合。字符集的种类较...</description>
       <category>数据库</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>MySQL 字符编码集中有两套 UTF-8 编码实现：<strong><code>utf8</code></strong> 和 <strong><code>utf8mb4</code></strong>。</p>
 <p>如果使用 <strong><code>utf8</code></strong> 的话，存储 emoji 符号和一些比较复杂的汉字、繁体字就会出错。</p>
 <p>为什么会这样呢？这篇文章可以从源头给你解答。</p>
@@ -2128,7 +2128,7 @@
       <source url="https://javaguide.cn/rss.xml">NoSQL基础知识总结</source>
       <description>NoSQL 是什么？ NoSQL（Not Only SQL 的缩写）泛指非关系型的数据库，主要针对的是键值、文档以及图形类型数据存储。并且，NoSQL 数据库天生支持分布式，数据冗余和数据分片等特性，旨在提供可扩展的高可用高性能数据存储解决方案。 一个常见的误解是 NoSQL 数据库或非关系型数据库不能很好地存储关系型数据。NoSQL 数据库可以存储关...</description>
       <category>数据库</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>NoSQL 是什么？</h2>
 <p>NoSQL（Not Only SQL 的缩写）泛指非关系型的数据库，主要针对的是键值、文档以及图形类型数据存储。并且，NoSQL 数据库天生支持分布式，数据冗余和数据分片等特性，旨在提供可扩展的高可用高性能数据存储解决方案。</p>
 <p>一个常见的误解是 NoSQL 数据库或非关系型数据库不能很好地存储关系型数据。NoSQL 数据库可以存储关系型数据—它们与关系型数据库的存储方式不同。</p>
@@ -2147,7 +2147,7 @@
       <source url="https://javaguide.cn/rss.xml">API网关基础知识总结</source>
       <description>什么是网关？ 微服务背景下，一个系统被拆分为多个服务，但是像安全认证，流量控制，日志，监控等功能是每个服务都需要的，没有网关的话，我们就需要在每个服务中单独实现，这使得我们做了很多重复的事情并且没有一个全局的视图来统一管理这些功能。 网关示意图 一般情况下，网关可以为我们提供请求转发、安全认证（身份/权限认证）、流量控制、负载均衡、降级熔断、日志、监控...</description>
       <category>分布式</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>什么是网关？</h2>
 <p>微服务背景下，一个系统被拆分为多个服务，但是像安全认证，流量控制，日志，监控等功能是每个服务都需要的，没有网关的话，我们就需要在每个服务中单独实现，这使得我们做了很多重复的事情并且没有一个全局的视图来统一管理这些功能。</p>
 <p><img src="https://oss.javaguide.cn/github/javaguide/system-design/distributed-system/api-gateway-overview.png" alt="网关示意图"></p>
@@ -2313,7 +2313,7 @@
       <source url="https://javaguide.cn/rss.xml">分布式配置中心常见问题总结(付费)</source>
       <description>分布式配置中心 相关的面试题为我的知识星球（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。 （点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 JavaGuide 的补充完善，两者可以配合使用。 《Java 面试指北》内容概览 为了帮助更多同学准备 Java 面试以及学习 Java ，我创建了一个纯...</description>
       <category>分布式</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>分布式配置中心</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。</p>
 <p><img src="https://oss.javaguide.cn/javamianshizhibei/distributed-system.png" alt=""></p>
 <p><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a>（点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 <a href="https://javaguide.cn/#/" target="_blank" rel="noopener noreferrer">JavaGuide</a> 的补充完善，两者可以配合使用。</p>
@@ -2340,7 +2340,7 @@
       <source url="https://javaguide.cn/rss.xml">分布式ID设计指南</source>
       <description>提示 看到百度 Geek 说的一篇结合具体场景聊分布式 ID 设计的文章，感觉挺不错的。于是，我将这篇文章的部分内容整理到了这里。原文传送门：分布式 ID 生成服务的技术原理和项目实战 。 网上绝大多数的分布式 ID 生成服务，一般着重于技术原理剖析，很少见到根据具体的业务场景去选型 ID 生成服务的文章。 本文结合一些使用场景，进一步探讨业务场景中对...</description>
       <category>分布式</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">提示</p>
 <p>看到百度 Geek 说的一篇结合具体场景聊分布式 ID 设计的文章，感觉挺不错的。于是，我将这篇文章的部分内容整理到了这里。原文传送门：<a href="https://mp.weixin.qq.com/s/bFDLb6U6EgI-DvCdLTq_QA" target="_blank" rel="noopener noreferrer">分布式 ID 生成服务的技术原理和项目实战</a> 。</p>
@@ -2454,7 +2454,7 @@
       <source url="https://javaguide.cn/rss.xml">分布式ID介绍&amp;实现方案总结</source>
       <description>分布式 ID 介绍 什么是 ID？ 日常开发中，我们需要对系统中的各种数据使用 ID 唯一表示，比如用户 ID 对应且仅对应一个人，商品 ID 对应且仅对应一件商品，订单 ID 对应且仅对应一个订单。 我们现实生活中也有各种 ID，比如身份证 ID 对应且仅对应一个人、地址 ID 对应且仅对应一个地址。 简单来说，ID 就是数据的唯一标识。 什么是分布...</description>
       <category>分布式</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>分布式 ID 介绍</h2>
 <h3>什么是 ID？</h3>
 <p>日常开发中，我们需要对系统中的各种数据使用 ID 唯一表示，比如用户 ID 对应且仅对应一个人，商品 ID 对应且仅对应一件商品，订单 ID 对应且仅对应一个订单。</p>
@@ -2725,7 +2725,7 @@
       <source url="https://javaguide.cn/rss.xml">分布式锁常见实现方案总结</source>
       <description>这是一则或许对你有用的小广告 面试专版：准备 Java 面试的小伙伴可以考虑面试专版： (质量非常高，专为面试打造，配合 JavaGuide 食用效果最佳)。 知识星球：技术专栏/一对一提问/简历修改/求职指南/面试打卡/不定时福利，欢迎加入 。 通常情况下，我们一般会选择基于 Redis 或者 ZooKeeper 实现分布式锁，Redis 用的要更多...</description>
       <category>分布式</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -3009,7 +3009,7 @@
       <source url="https://javaguide.cn/rss.xml">分布式锁介绍</source>
       <description>这是一则或许对你有用的小广告 面试专版：准备 Java 面试的小伙伴可以考虑面试专版： (质量非常高，专为面试打造，配合 JavaGuide 食用效果最佳)。 知识星球：技术专栏/一对一提问/简历修改/求职指南/面试打卡/不定时福利，欢迎加入 。 网上有很多分布式锁相关的文章，写了一个相对简洁易懂的版本，针对面试和工作应该够用了。 这篇文章我们先介绍一...</description>
       <category>分布式</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -3082,7 +3082,7 @@
       <source url="https://javaguide.cn/rss.xml">分布式事务常见解决方案总结(付费)</source>
       <description>分布式事务 相关的面试题为我的知识星球（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。 （点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 JavaGuide 的补充完善，两者可以配合使用。 《Java 面试指北》内容概览 为了帮助更多同学准备 Java 面试以及学习 Java ，我创建了一个纯粹的...</description>
       <category>分布式</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>分布式事务</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。</p>
 <p><img src="https://oss.javaguide.cn/javamianshizhibei/distributed-system.png" alt=""></p>
 <p><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a>（点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 <a href="https://javaguide.cn/#/" target="_blank" rel="noopener noreferrer">JavaGuide</a> 的补充完善，两者可以配合使用。</p>
@@ -3109,7 +3109,7 @@
       <source url="https://javaguide.cn/rss.xml">Spring Cloud Gateway常见问题总结</source>
       <description>本文重构完善自6000 字 | 16 图 | 深入理解 Spring Cloud Gateway 的原理 - 悟空聊架构这篇文章。 什么是 Spring Cloud Gateway？ Spring Cloud Gateway 属于 Spring Cloud 生态系统中的网关，其诞生的目标是为了替代老牌网关 Zuul。准确点来说，应该是 Zuul 1.x...</description>
       <category>分布式</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>本文重构完善自<a href="https://mp.weixin.qq.com/s/XjFYsP1IUqNzWqXZdJn-Aw" target="_blank" rel="noopener noreferrer">6000 字 | 16 图 | 深入理解 Spring Cloud Gateway 的原理 - 悟空聊架构</a>这篇文章。</p>
 </blockquote>
@@ -3223,7 +3223,7 @@
       <source url="https://javaguide.cn/rss.xml">降级&amp;熔断详解(付费)</source>
       <description>降级&amp;熔断 相关的面试题为我的知识星球（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。 （点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 JavaGuide 的补充完善，两者可以配合使用。 《Java 面试指北》内容概览 为了帮助更多同学准备 Java 面试以及学习 Java ，我创建了一个纯粹的...</description>
       <category>高可用</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>降级&amp;熔断</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a>中。</p>
 <p><img src="https://oss.javaguide.cn/xingqiu/mianshizhibei-gaobingfa.png" alt=""></p>
 <p><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a>（点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 <a href="https://javaguide.cn/#/" target="_blank" rel="noopener noreferrer">JavaGuide</a> 的补充完善，两者可以配合使用。</p>
@@ -3250,7 +3250,7 @@
       <source url="https://javaguide.cn/rss.xml">高可用系统设计指南</source>
       <description>什么是高可用？可用性的判断标准是啥？ 高可用描述的是一个系统在大部分时间都是可用的，可以为我们提供服务的。高可用代表系统即使在发生硬件故障或者系统升级的时候，服务仍然是可用的。 一般情况下，我们使用多少个 9 来评判一个系统的可用性，比如 99.9999% 就是代表该系统在所有的运行时间中只有 0.0001% 的时间是不可用的，这样的系统就是非常非常高...</description>
       <category>高可用</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>什么是高可用？可用性的判断标准是啥？</h2>
 <p>高可用描述的是一个系统在大部分时间都是可用的，可以为我们提供服务的。高可用代表系统即使在发生硬件故障或者系统升级的时候，服务仍然是可用的。</p>
 <p>一般情况下，我们使用多少个 9 来评判一个系统的可用性，比如 99.9999% 就是代表该系统在所有的运行时间中只有 0.0001% 的时间是不可用的，这样的系统就是非常非常高可用的了！当然，也会有系统如果可用性不太好的话，可能连 9 都上不了。</p>
@@ -3306,7 +3306,7 @@
       <source url="https://javaguide.cn/rss.xml">接口幂等方案总结(付费)</source>
       <description>接口幂等 相关的面试题为我的知识星球（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。 （点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 JavaGuide 的补充完善，两者可以配合使用。 《Java 面试指北》内容概览 为了帮助更多同学准备 Java 面试以及学习 Java ，我创建了一个纯粹的。...</description>
       <category>高可用</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>接口幂等</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a>中。</p>
 <p><img src="https://oss.javaguide.cn/xingqiu/mianshizhibei-gaobingfa.png" alt=""></p>
 <p><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a>（点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 <a href="https://javaguide.cn/#/" target="_blank" rel="noopener noreferrer">JavaGuide</a> 的补充完善，两者可以配合使用。</p>
@@ -3333,7 +3333,7 @@
       <source url="https://javaguide.cn/rss.xml">服务限流详解</source>
       <description>针对软件系统来说，限流就是对请求的速率进行限制，避免瞬时的大量请求击垮软件系统。毕竟，软件系统的处理能力是有限的。如果说超过了其处理能力的范围，软件系统可能直接就挂掉了。 限流可能会导致用户的请求无法被正确处理或者无法立即被处理，不过，这往往也是权衡了软件系统的稳定性之后得到的最优解。 现实生活中，处处都有限流的实际应用，就比如排队买票是为了避免大量用...</description>
       <category>高可用</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>针对软件系统来说，限流就是对请求的速率进行限制，避免瞬时的大量请求击垮软件系统。毕竟，软件系统的处理能力是有限的。如果说超过了其处理能力的范围，软件系统可能直接就挂掉了。</p>
 <p>限流可能会导致用户的请求无法被正确处理或者无法立即被处理，不过，这往往也是权衡了软件系统的稳定性之后得到的最优解。</p>
 <p>现实生活中，处处都有限流的实际应用，就比如排队买票是为了避免大量用户涌入购票而导致售票员无法处理。</p>
@@ -3562,7 +3562,7 @@
       <source url="https://javaguide.cn/rss.xml">性能测试入门</source>
       <description>性能测试一般情况下都是由测试这个职位去做的，那还需要我们开发学这个干嘛呢？了解性能测试的指标、分类以及工具等知识有助于我们更好地去写出性能更好的程序，另外作为开发这个角色，如果你会性能测试的话，相信也会为你的履历加分不少。 这篇文章是我会结合自己的实际经历以及在测试这里取的经所得，除此之外，我还借鉴了一些优秀书籍，希望对你有帮助。 不同角色看网站性能 ...</description>
       <category>高可用</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>性能测试一般情况下都是由测试这个职位去做的，那还需要我们开发学这个干嘛呢？了解性能测试的指标、分类以及工具等知识有助于我们更好地去写出性能更好的程序，另外作为开发这个角色，如果你会性能测试的话，相信也会为你的履历加分不少。</p>
 <p>这篇文章是我会结合自己的实际经历以及在测试这里取的经所得，除此之外，我还借鉴了一些优秀书籍，希望对你有帮助。</p>
 <h2>不同角色看网站性能</h2>
@@ -3685,7 +3685,7 @@
       <source url="https://javaguide.cn/rss.xml">冗余设计详解</source>
       <description>冗余设计是保证系统和数据高可用的最常的手段。 对于服务来说，冗余的思想就是相同的服务部署多份，如果正在使用的服务突然挂掉的话，系统可以很快切换到备份服务上，大大减少系统的不可用时间，提高系统的可用性。 对于数据来说，冗余的思想就是相同的数据备份多份，这样就可以很简单地提高数据的安全性。 实际上，日常生活中就有非常多的冗余思想的应用。 拿我自己来说，我对...</description>
       <category>高可用</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>冗余设计是保证系统和数据高可用的最常的手段。</p>
 <p>对于服务来说，冗余的思想就是相同的服务部署多份，如果正在使用的服务突然挂掉的话，系统可以很快切换到备份服务上，大大减少系统的不可用时间，提高系统的可用性。</p>
 <p>对于数据来说，冗余的思想就是相同的数据备份多份，这样就可以很简单地提高数据的安全性。</p>
@@ -3723,7 +3723,7 @@
       <source url="https://javaguide.cn/rss.xml">超时&amp;重试详解</source>
       <description>由于网络问题、系统或者服务内部的 Bug、服务器宕机、操作系统崩溃等问题的不确定性，我们的系统或者服务永远不可能保证时刻都是可用的状态。 为了最大限度的减小系统或者服务出现故障之后带来的影响，我们需要用到的 超时（Timeout） 和 重试（Retry） 机制。 想要把超时和重试机制讲清楚其实很简单，因为它俩本身就不是什么高深的概念。 虽然超时和重试机...</description>
       <category>高可用</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>由于网络问题、系统或者服务内部的 Bug、服务器宕机、操作系统崩溃等问题的不确定性，我们的系统或者服务永远不可能保证时刻都是可用的状态。</p>
 <p>为了最大限度的减小系统或者服务出现故障之后带来的影响，我们需要用到的 <strong>超时（Timeout）</strong> 和 <strong>重试（Retry）</strong> 机制。</p>
 <p>想要把超时和重试机制讲清楚其实很简单，因为它俩本身就不是什么高深的概念。</p>
@@ -3781,7 +3781,7 @@
       <source url="https://javaguide.cn/rss.xml">CDN工作原理详解</source>
       <description>什么是 CDN ？ CDN 全称是 Content Delivery Network/Content Distribution Network，翻译过的意思是 内容分发网络 。 我们可以将内容分发网络拆开来看： 内容：指的是静态资源比如图片、视频、文档、JS、CSS、HTML。 分发网络：指的是将这些静态资源分发到位于多个不同的地理位置机房中的服务器上...</description>
       <category>高性能</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>什么是 CDN ？</h2>
 <p><strong>CDN</strong> 全称是 Content Delivery Network/Content Distribution Network，翻译过的意思是 <strong>内容分发网络</strong> 。</p>
 <p>我们可以将内容分发网络拆开来看：</p>
@@ -3878,7 +3878,7 @@
       <source url="https://javaguide.cn/rss.xml">数据冷热分离详解</source>
       <description>什么是数据冷热分离？ 数据冷热分离是指根据数据的访问频率和业务重要性，将数据分为冷数据和热数据，冷数据一般存储在存储在低成本、低性能的介质中，热数据高性能存储介质中。 冷数据和热数据 热数据是指经常被访问和修改且需要快速访问的数据，冷数据是指不经常访问，对当前项目价值较低，但需要长期保存的数据。 冷热数据到底如何区分呢？有两个常见的区分方法： 时间维度...</description>
       <category>高性能</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>什么是数据冷热分离？</h2>
 <p>数据冷热分离是指根据数据的访问频率和业务重要性，将数据分为冷数据和热数据，冷数据一般存储在存储在低成本、低性能的介质中，热数据高性能存储介质中。</p>
 <h3>冷数据和热数据</h3>
@@ -3933,7 +3933,7 @@
       <source url="https://javaguide.cn/rss.xml">深度分页介绍及优化建议</source>
       <description>深度分页介绍 查询偏移量过大的场景我们称为深度分页，这会导致查询性能较低，例如： 深度分页问题的原因 当查询偏移量过大时，MySQL 的查询优化器可能会选择全表扫描而不是利用索引来优化查询。这是因为扫描索引和跳过大量记录可能比直接全表扫描更耗费资源。 深度分页问题 不同机器上这个查询偏移量过大的临界点可能不同，取决于多个因素，包括硬件配置（如 CPU ...</description>
       <category>高性能</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>深度分页介绍</h2>
 <p>查询偏移量过大的场景我们称为深度分页，这会导致查询性能较低，例如：</p>
 <div class="language-sql line-numbers-mode" data-highlighter="shiki" data-ext="sql" data-title="sql" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"># MySQL 在无法利用索引的情况下跳过1000000条记录后，再获取10条记录</span></span>
@@ -4031,7 +4031,7 @@
       <source url="https://javaguide.cn/rss.xml">负载均衡原理及算法详解</source>
       <description>什么是负载均衡？ 负载均衡 指的是将用户请求分摊到不同的服务器上处理，以提高系统整体的并发处理能力以及可靠性。负载均衡服务可以有由专门的软件或者硬件来完成，一般情况下，硬件的性能更好，软件的价格更便宜（后文会详细介绍到）。 下图是《Java 面试指北》 「高并发篇」中的一篇文章的配图，从图中可以看出，系统的商品服务部署了多份在不同的服务器上，为了实现访...</description>
       <category>高性能</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>什么是负载均衡？</h2>
 <p><strong>负载均衡</strong> 指的是将用户请求分摊到不同的服务器上处理，以提高系统整体的并发处理能力以及可靠性。负载均衡服务可以有由专门的软件或者硬件来完成，一般情况下，硬件的性能更好，软件的价格更便宜（后文会详细介绍到）。</p>
 <p>下图是<a href="https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&amp;mid=2247519384&amp;idx=1&amp;sn=bc7e71af75350b755f04ca4178395b1a&amp;chksm=cea1c353f9d64a458f797696d4144b4d6e58639371a4612b8e4d106d83a66d2289e7b2cd7431&amp;token=660789642&amp;lang=zh_CN&amp;scene=21#wechat_redirect" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a> 「高并发篇」中的一篇文章的配图，从图中可以看出，系统的商品服务部署了多份在不同的服务器上，为了实现访问商品服务请求的分流，我们用到了负载均衡。</p>
@@ -4204,7 +4204,7 @@
       <source url="https://javaguide.cn/rss.xml">读写分离和分库分表详解</source>
       <description>读写分离 什么是读写分离？ 见名思意，根据读写分离的名字，我们就可以知道：读写分离主要是为了将对数据库的读写操作分散到不同的数据库节点上。 这样的话，就能够小幅提升写性能，大幅提升读性能。 我简单画了一张图来帮助不太清楚读写分离的小伙伴理解。 读写分离示意图 一般情况下，我们都会选择一主多从，也就是一台主数据库负责写，其他的从数据库负责读。主库和从库之...</description>
       <category>高性能</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>读写分离</h2>
 <h3>什么是读写分离？</h3>
 <p>见名思意，根据读写分离的名字，我们就可以知道：<strong>读写分离主要是为了将对数据库的读写操作分散到不同的数据库节点上。</strong> 这样的话，就能够小幅提升写性能，大幅提升读性能。</p>
@@ -4404,7 +4404,7 @@
       <source url="https://javaguide.cn/rss.xml">常见SQL优化手段总结（付费）</source>
       <description>常见 SQL 优化手段总结 相关的内容为我的知识星球（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。 （点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 JavaGuide 的补充完善，两者可以配合使用。 《Java 面试指北》内容概览 为了帮助更多同学准备 Java 面试以及学习 Java ，我创...</description>
       <category>高性能</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>常见 SQL 优化手段总结</strong> 相关的内容为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a>中。</p>
 <p><img src="https://oss.javaguide.cn/javamianshizhibei/sql-optimization.png" alt=""></p>
 <p><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a>（点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 <a href="https://javaguide.cn/#/" target="_blank" rel="noopener noreferrer">JavaGuide</a> 的补充完善，两者可以配合使用。</p>
@@ -4430,7 +4430,7 @@
       <guid>https://javaguide.cn/high-quality-technical-articles/</guid>
       <source url="https://javaguide.cn/rss.xml">程序人生</source>
       <description>程序人生 这是一则或许对你有用的小广告 面试专版：准备 Java 面试的小伙伴可以考虑面试专版： (质量非常高，专为面试打造，配合 JavaGuide 食用效果最佳)。 知识星球：技术专栏/一对一提问/简历修改/求职指南/面试打卡/不定时福利，欢迎加入 。 这里主要会收录一些我看到的或者我自己写的和程序员密切相关的非技术类的优质文章，每一篇都值得你阅读...</description>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[
 <div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
@@ -4490,7 +4490,7 @@
       <source url="https://javaguide.cn/rss.xml">面试太紧张怎么办？</source>
       <description>很多小伙伴在第一次技术面试时都会感到紧张甚至害怕，面试结束后还会有种“懵懵的”感觉。我也经历过类似的状况，可以说是深有体会。其实，紧张是很正常的——它代表你对面试的重视，也来自于对未知结果的担忧。但如果过度紧张，反而会影响你的临场发挥。 下面，我就分享一些自己的心得，帮大家更好地应对面试中的紧张情绪。 试着接受紧张情绪，调整心态 首先要明白，紧张是正常...</description>
       <category>面试准备</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>很多小伙伴在第一次技术面试时都会感到紧张甚至害怕，面试结束后还会有种“懵懵的”感觉。我也经历过类似的状况，可以说是深有体会。其实，<strong>紧张是很正常的</strong>——它代表你对面试的重视，也来自于对未知结果的担忧。但如果过度紧张，反而会影响你的临场发挥。</p>
 <p>下面，我就分享一些自己的心得，帮大家更好地应对面试中的紧张情绪。</p>
 <h2>试着接受紧张情绪，调整心态</h2>
@@ -4549,7 +4549,7 @@
       <source url="https://javaguide.cn/rss.xml">校招没有实习经历怎么办？</source>
       <description>由于目前的面试太卷，对于犹豫是否要找实习的同学来说，个人建议不论是本科生还是研究生都应该在参加校招面试之前，争取一下不错的实习机会，尤其是大厂的实习机会，日常实习或者暑期实习都可以。当然，如果大厂实习面不上，中小厂实习也是可以接受的。 不过，现在的实习是真难找，今年有非常多的同学没有找到实习，有一部分甚至是 211/985 名校的同学。 如果实在是找不...</description>
       <category>面试准备</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>由于目前的面试太卷，对于犹豫是否要找实习的同学来说，个人建议不论是本科生还是研究生都应该在参加校招面试之前，争取一下不错的实习机会，尤其是大厂的实习机会，日常实习或者暑期实习都可以。当然，如果大厂实习面不上，中小厂实习也是可以接受的。</p>
 <p>不过，现在的实习是真难找，今年有非常多的同学没有找到实习，有一部分甚至是 211/985 名校的同学。</p>
 <p>如果实在是找不到合适的实习的话，那也没办法，我们应该多花时间去把下面这三件事情给做好：</p>
@@ -4594,7 +4594,7 @@
       <source url="https://javaguide.cn/rss.xml">优质面经汇总(付费)</source>
       <description>古人云:“他山之石，可以攻玉” 。善于学习借鉴别人的面试的成功经验或者失败的教训，可以让自己少走许多弯路。 在 的 「面经篇」 ，我分享了 15+ 篇高质量的 Java 后端面经，有校招的，也有社招的，有大厂的，也有中小厂的。 如果你是非科班的同学，也能在这些文章中找到对应的非科班的同学写的面经。 并且，知识星球还有专门分享面经和面试题的专题，里面会分...</description>
       <category>知识星球</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>古人云:“<strong>他山之石，可以攻玉</strong>” 。善于学习借鉴别人的面试的成功经验或者失败的教训，可以让自己少走许多弯路。</p>
 <p>在 <strong><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong> 的 <strong>「面经篇」</strong> ，我分享了 15+ 篇高质量的 Java 后端面经，有校招的，也有社招的，有大厂的，也有中小厂的。</p>
 <p>如果你是非科班的同学，也能在这些文章中找到对应的非科班的同学写的面经。</p>
@@ -4632,7 +4632,7 @@
       <source url="https://javaguide.cn/rss.xml">Java 学习路线(最新版，4w+字)</source>
       <description>重要说明 本学习路线保持年度系统性修订，严格同步 Java 技术生态与招聘市场的最新动态，确保内容时效性与前瞻性。 历时一个月精心打磨，笔者基于当下 Java 后端开发岗位招聘的最新要求，对既有学习路线进行了全面升级。本次升级涵盖技术栈增删、学习路径优化、配套学习资源更新等维度，力争构建出更符合 Java 开发者成长曲线的知识体系。 Java 学习路线...</description>
       <category>面试准备</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">重要说明</p>
 <p>本学习路线保持<strong>年度系统性修订</strong>，严格同步 Java 技术生态与招聘市场的最新动态，<strong>确保内容时效性与前瞻性</strong>。</p>
@@ -4656,7 +4656,7 @@
       <source url="https://javaguide.cn/rss.xml">Java后端面试重点总结</source>
       <description>友情提示 本文节选自 。这是一份教你如何更高效地准备面试的专栏，内容和 JavaGuide 互补，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。 Java 后端面试哪些知识点是重点？ 准备面试的时候，具体哪些知识点是重点呢？如何把握重点？ 给你几点靠谱的建议： Java 基础、集合、并发、MySQL、Redis 、Spri...</description>
       <category>面试准备</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">友情提示</p>
 <p>本文节选自 <strong><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong>。这是一份教你如何更高效地准备面试的专栏，内容和 JavaGuide 互补，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。</p>
@@ -4692,7 +4692,7 @@
       <source url="https://javaguide.cn/rss.xml">项目经验指南</source>
       <description>友情提示 本文节选自 。这是一份教你如何更高效地准备面试的专栏，内容和 JavaGuide 互补，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。 没有项目经验怎么办? 没有项目经验是大部分应届生会碰到的一个问题。甚至说，有很多有工作经验的程序员，对自己在公司做的项目不满意，也想找一个比较有技术含量的项目来做。 说几种我觉得...</description>
       <category>面试准备</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">友情提示</p>
 <p>本文节选自 <strong><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong>。这是一份教你如何更高效地准备面试的专栏，内容和 JavaGuide 互补，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。</p>
@@ -4769,7 +4769,7 @@
       <source url="https://javaguide.cn/rss.xml">程序员简历编写指南</source>
       <description>友情提示 本文节选自 。这是一份教你如何更高效地准备面试的小册，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。 前言 一份好的简历可以在整个申请面试以及面试过程中起到非常重要的作用。 为什么说简历很重要呢？ 我们可以从下面几点来说： 1、简历就像是我们的一个门面一样，它在很大程度上决定了是否能够获得面试机会。 假如你是网申...</description>
       <category>面试准备</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">友情提示</p>
 <p>本文节选自 <strong><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong>。这是一份教你如何更高效地准备面试的小册，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。</p>
@@ -4993,7 +4993,7 @@
       <source url="https://javaguide.cn/rss.xml">常见面试题自测(付费)</source>
       <description>面试之前，强烈建议大家多拿常见的面试题来进行自测，检查一下自己的掌握情况，这是一种非常实用的备战技术面试的小技巧。 在 的 「技术面试题自测篇」 ，我总结了 Java 面试中最重要的知识点的最常见的面试题并按照面试提问的方式展现出来。 每一道用于自测的面试题我都会给出重要程度，方便大家在时间比较紧张的时候根据自身情况来选择性自测。并且，我还会给出提示，...</description>
       <category>知识星球</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>面试之前，强烈建议大家多拿常见的面试题来进行自测，检查一下自己的掌握情况，这是一种非常实用的备战技术面试的小技巧。</p>
 <p>在 <strong><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong> 的 <strong>「技术面试题自测篇」</strong> ，我总结了 Java 面试中最重要的知识点的最常见的面试题并按照面试提问的方式展现出来。</p>
 <p><img src="https://oss.javaguide.cn/xingqiu/image-20220628102643202.png" alt=""></p>
@@ -5017,13 +5017,178 @@
       <enclosure url="https://oss.javaguide.cn/xingqiu/image-20220628102643202.png" type="image/png"/>
     </item>
     <item>
+      <title>如何高效准备Java面试？</title>
+      <link>https://javaguide.cn/interview-preparation/teach-you-how-to-prepare-for-the-interview-hand-in-hand.html</link>
+      <guid>https://javaguide.cn/interview-preparation/teach-you-how-to-prepare-for-the-interview-hand-in-hand.html</guid>
+      <source url="https://javaguide.cn/rss.xml">如何高效准备Java面试？</source>
+      <description>友情提示 本文节选自 。这是一份教你如何更高效地准备面试的专栏，内容和 JavaGuide 互补，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。 你的身边一定有很多编程比你厉害但是找的工作并没有你好的朋友！技术面试不同于编程，编程厉害不代表技术面试就一定能过。 现在你去面个试，不认真准备一下，那简直就是往枪口上撞。我们大部...</description>
+      <category>知识星球</category>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container tip">
+<p class="hint-container-title">友情提示</p>
+<p>本文节选自 <strong><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong>。这是一份教你如何更高效地准备面试的专栏，内容和 JavaGuide 互补，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。</p>
+</div>
+<p>你的身边一定有很多编程比你厉害但是找的工作并没有你好的朋友！<strong>技术面试不同于编程，编程厉害不代表技术面试就一定能过。</strong></p>
+<p>现在你去面个试，不认真准备一下，那简直就是往枪口上撞。我们大部分都只是普通人，没有发过顶级周刊或者获得过顶级大赛奖项。在这样一个技术面试氛围下，我们需要花费很多精力来准备面试，来提高自己的技术能力。“<a href="https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&amp;mid=2247491596&amp;idx=1&amp;sn=36fbf80922f71c200990de11514955f7&amp;chksm=cea1afc7f9d626d1c70d5e54505495ac499ce6eb5e05ba4f4bb079a8563a84e27f17ceff38af&amp;token=353590436&amp;lang=zh_CN&amp;scene=21#wechat_redirect" target="_blank" rel="noopener noreferrer">面试造火箭，工作拧螺丝钉</a>” 就是目前的一个常态，预计未来很长很长一段时间也还是会是这样。</p>
+<p>准备面试不等于耍小聪明或者死记硬背面试题。 <strong>一定不要对面试抱有侥幸心理。打铁还需自身硬！</strong> 千万不要觉得自己看几篇面经，看几篇面试题解析就能通过面试了。一定要静下心来深入学习！</p>
+<p>这篇我会从宏观面出发简单聊聊如何准备 Java 面试，让你少走弯路！</p>
+<h2>尽早以求职为导向来学习</h2>
+<p>我是比较建议还在学校的同学尽可能早一点以求职为导向来学习的。</p>
+<p><strong>这样更有针对性，并且可以大概率减少自己处在迷茫的时间，很大程度上还可以让自己少走很多弯路。</strong></p>
+<p>但是！不要把“以求职为导向学习”理解为“我就不用学课堂上那些计算机基础课程了”！</p>
+<p>我在之前的很多次分享中都强调过：<strong>一定要用心学习计算机基础知识！操作系统、计算机组成原理、计算机网络真的不是没有实际用处的学科！！！</strong></p>
+<p>你会发现大厂面试你会用到，以后工作之后你也会用到。我分别列举 2 个例子吧！</p>
+<ul>
+<li><strong>面试中</strong>：像字节、腾讯这些大厂的技术面试以及几乎所有公司的笔试都会考操作系统相关的问题。</li>
+<li><strong>工作中</strong>：在实际使用缓存的时候，软件层次而言的缓存思想，则是源自数据库速度、Redis（内存中间件）速度、本地内存速度之间的不匹配；而在计算机存储层次结构设计中，我们也能发现同样的问题及缓存思想的使用：内存用于解决磁盘访问速度过慢的问题，CPU 用三级缓存缓解寄存器和内存之间的速度差异。它们面临的都是同一个问题（速度不匹配）和同一个思想，那么计算机先驱者在存储层次结构设计上对缓存性能的优化措施，同样也适用于软件层次缓存的性能优化。</li>
+</ul>
+<p><strong>如何求职为导向学习呢？</strong> 简答来说就是：根据招聘要求整理一份目标岗位的技能清单，然后按照技能清单去学习和提升。</p>
+<ol>
+<li>你首先搞清楚自己要找什么工作</li>
+<li>然后根据招聘岗位的要求梳理一份技能清单</li>
+<li>根据技能清单写好最终的简历</li>
+<li>最后再按照简历的要求去学习和提升。</li>
+</ol>
+<p>这其实也是 <strong>以终为始</strong> 思想的运用。</p>
+<p><strong>何为以终为始？</strong> 简单来说，以终为始就是我们可以站在结果来考虑问题，从结果出发，根据结果来确定自己要做的事情。</p>
+<p>你会发现，其实几乎任何领域都可以用到 <strong>以终为始</strong> 的思想。</p>
+<h2>了解投递简历的黄金时间</h2>
+<p>面试之前，你肯定是先要搞清楚春招和秋招的具体时间的。</p>
+<p>正所谓金三银四，金九银十，错过了这个时间，很多公司都没有 HC 了。</p>
+<p><strong>秋招一般 7 月份就开始了，大概一直持续到 9 月底。</strong></p>
+<p><strong>春招一般 3 月份就开始了，大概一直持续到 4 月底。</strong></p>
+<p>很多公司（尤其大厂）到了 9 月中旬(秋招)/3 月中旬（春招），很可能就会没有 HC 了。面试的话一般都是至少是 3 轮起步，一些大厂比如阿里、字节可能会有 5 轮面试。<strong>面试失败话的不要紧，某一面表现差的话也不要紧，调整好心态。又不是单一选择对吧？你能投这么多企业呢! 调整心态。</strong> 今年面试的话，因为疫情原因，有些公司还是可能会还是集中在线上进行面试。然后，还是因为疫情的影响，可能会比往年更难找工作（对大厂影响较小）。</p>
+<h2>知道如何获取招聘信息</h2>
+<p>下面是常见的获取招聘信息的渠道：</p>
+<ul>
+<li><strong>目标企业的官网/公众号</strong>：最及时最权威的获取招聘信息的途径。</li>
+<li><strong>招聘网站</strong>：<a href="https://www.zhipin.com/" target="_blank" rel="noopener noreferrer">BOSS 直聘</a>、<a href="https://www.zhaopin.com/" target="_blank" rel="noopener noreferrer">智联招聘</a>、<a href="https://www.lagou.com/" target="_blank" rel="noopener noreferrer">拉勾招聘</a>……。</li>
+<li><strong>牛客网</strong>：每年秋招/春招，都会有大批量的公司会到牛客网发布招聘信息，并且还会有大量的公司员工来到这里发内推的帖子。地址：<a href="https://www.nowcoder.com/jobs/recommend/campus" target="_blank" rel="noopener noreferrer">https://www.nowcoder.com/jobs/recommend/campus</a> 。</li>
+<li><strong>超级简历</strong>：超级简历目前整合了各大企业的校园招聘入口，地址：<a href="https://www.wondercv.com/jobs/%E3%80%82%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%98%AF%E6%A0%A1%E6%8B%9B%E7%9A%84%E8%AF%9D%EF%BC%8C%E7%82%B9%E5%87%BB%E2%80%9C%E6%A0%A1%E6%8B%9B%E7%BD%91%E7%94%B3%E2%80%9D%E5%B0%B1%E5%8F%AF%E4%BB%A5%E7%9B%B4%E6%8E%A5%E8%B7%B3%E8%BD%AC%E5%88%B0%E5%90%84%E5%A4%A7%E4%BC%81%E4%B8%9A%E7%9A%84%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98%E5%85%A5%E5%8F%A3%E7%9A%84%E6%95%B4%E5%90%88%E9%A1%B5%E9%9D%A2%E4%BA%86%E3%80%82" target="_blank" rel="noopener noreferrer">https://www.wondercv.com/jobs/。如果你是校招的话，点击“校招网申”就可以直接跳转到各大企业的校园招聘入口的整合页面了。</a></li>
+<li><strong>认识的朋友</strong>：如果你有认识的朋友在目标企业工作的话，你也可以找他们了解招聘信息，并且可以让他们帮你内推。</li>
+<li><strong>宣讲会</strong>：宣讲会也是一个不错的途径，不过，好的企业通常只会去比较好的学校，可以留意一下意向公司的宣讲会安排或者直接去到一所比较好的学校参加宣讲会。像我当时校招就去参加了几场宣讲会。不过，我是在荆州上学，那边没什么比较好的学校，一般没有公司去开宣讲会。所以，我当时是直接跑到武汉来了，参加了武汉理工大学以及华中科技大学的几场宣讲会。总体感觉还是很不错的！</li>
+<li><strong>其他</strong>：校园就业信息网、学校论坛、班级 or 年级 QQ 群。</li>
+</ul>
+<p>校招的话，建议以官网为准，有宣讲会的话更好。社招的话，可以多留意一下各大招聘网站比如 BOSS 直聘、拉勾上的职位信息。</p>
+<p>不论校招和社招，如果能找到比较靠谱的内推机会的话，获得面试的机会的概率还是非常大的。而且，你可以让内推你的人定向地给你一些建议。找内推的方式有很多，首选比较熟悉的朋友、同学，还可以留意技术交流社区和公众号上的内推信息。</p>
+<p>一般是只能投递一个岗位，不过，也有极少数投递不同部门两个岗位的情况，这个应该不会有影响，但你的前一次面试情况可能会被记录，也就是说就算你投递成功两个岗位，第一个岗位面试失败的话，对第二个岗位也会有影响，很可能直接就被 pass。</p>
+<h2>多花点时间完善简历</h2>
+<p>一定一定一定要重视简历啊！朋友们！至少要花 2~3 天时间来专门完善自己的简历。</p>
+<p>最近看了很多份简历，满意的很少，我简单拿出一份来说分析一下（欢迎在评论区补充）。</p>
+<p><strong>1.个人介绍没太多实用的信息。</strong></p>
+<p><img src="https://oss.javaguide.cn/github/javaguide/interview-preparation/format,png.png" alt=""></p>
+<p>技术博客、GitHub 以及在校获奖经历的话，能写就尽量写在这里。 你可以参考下面 👇 的模板进行修改：</p>
+<p><img src="https://oss.javaguide.cn/github/javaguide/interview-preparation/format,png-20230309224235808.png" alt=""></p>
+<p><strong>2.项目经历过于简单，完全没有质量可言</strong></p>
+<p><img src="https://oss.javaguide.cn/github/javaguide/interview-preparation/format,png-20230309224240305.png" alt=""></p>
+<p>每一个项目经历真的就一两句话可以描述了么？还是自己不想写？还是说不是自己做的，不敢多写。</p>
+<p>如果有项目的话，技术面试第一步，面试官一般都是让你自己介绍一下你的项目。你可以从下面几个方向来考虑：</p>
+<ol>
+<li>你对项目整体设计的一个感受（面试官可能会让你画系统的架构图）</li>
+<li>你在这个项目中你负责了什么、做了什么、担任了什么角色。</li>
+<li>从这个项目中你学会了那些东西，使用到了那些技术，学会了那些新技术的使用。</li>
+<li>你在这个项目中是否解决过什么问题？怎么解决的？收获了什么？</li>
+<li>你的项目用到了哪些技术？这些技术你吃透了没有？举个例子，你的项目经历使用了 Seata 来做分布式事务，那 Seata 相关的问题你要提前准备一下吧，比如说 Seata 支持哪些配置中心、Seata 的事务分组是怎么做的、Seata 支持哪些事务模式，怎么选择？</li>
+<li>你在这个项目中犯过的错误，最后是怎么弥补的？</li>
+</ol>
+<p><strong>3.计算机二级这个证书对于计算机专业完全不用写了，没有含金量的。</strong></p>
+<p><img src="https://oss.javaguide.cn/github/javaguide/interview-preparation/format,png-20230309224247261.png" alt=""></p>
+<p><strong>4.技能介绍问题太大。</strong></p>
+<p><img src="https://oss.javaguide.cn/github/javaguide/interview-preparation/93da1096fb02e19071ba13b4f6a7471c.png" alt=""></p>
+<ul>
+<li>技术名词最好规范大小写比较好，比如 java-&gt;Java ，spring boot -&gt; Spring Boot 。这个虽然有些面试官不会介意，但是很多面试官都会在意这个细节的。</li>
+<li>技能介绍太杂，没有亮点。不需要全才，某个领域做得好就行了！</li>
+<li>对 Java 后台开发的部分技能比如 Spring Boot 的熟悉度仅仅为了解，无法满足企业的要求。</li>
+</ul>
+<p>详细的程序员简历编写指南请参考：<a href="https://javaguide.cn/interview-preparation/resume-guide.html" target="_blank" rel="noopener noreferrer">程序员简历到底该怎么写？</a>。</p>
+<h2>岗位匹配度很重要</h2>
+<p>校招通常会对你的项目经历的研究方向比较宽容，即使你的项目经历和对应公司的具体业务没有关系，影响其实也并不大。</p>
+<p>社招的话就不一样了，毕竟公司是要招聘可以直接来干活的人，你有相关的经验，公司会比较省事。社招通常会比较重视你的过往工作经历以及项目经历，HR 在筛选简历的时候会根据这两方面信息来判断你是否满足他们的招聘要求。就比如说你投递电商公司，而你之前的并没有和电商相关的工作经历以及项目经历，那 HR 在筛简历的时候很可能会直接把你 Pass 掉。</p>
+<p>不过，这个也并不绝对，也有一些公司在招聘的时候更看重的是你的过往经历，较少地关注岗位匹配度，优秀公司的工作经历以及有亮点的项目经验都是加分项。这类公司相信你既然在某个领域（比如电商、支付）已经做的不错了，那应该也可以在另外一个领域（比如流媒体平台、社交软件）很快成为专家。这个领域指的不是技术领域，更多的是业务方向。横跨技术领域（比如后端转算法、后端转大数据）找工作，你又没有相关的经验，几乎是没办法找到的。即使找到了，也大概率会面临 HR 压薪资的问题。</p>
+<h2>提前准备技术面试</h2>
+<p>面试之前一定要提前准备一下常见的面试题也就是八股文：</p>
+<ul>
+<li>自己面试中可能涉及哪些知识点、那些知识点是重点。</li>
+<li>面试中哪些问题会被经常问到、面试中自己该如何回答。(强烈不推荐死记硬背，第一：通过背这种方式你能记住多少？能记住多久？第二：背题的方式的学习很难坚持下去！)</li>
+</ul>
+<p>Java 后端面试复习的重点请看这篇文章：<a href="https://javaguide.cn/interview-preparation/key-points-of-interview.html" target="_blank" rel="noopener noreferrer">Java 面试重点总结(重要)</a>。</p>
+<p>不同类型的公司对于技能的要求侧重点是不同的比如腾讯、字节可能更重视计算机基础比如网络、操作系统这方面的内容。阿里、美团这种可能更重视你的项目经历、实战能力。</p>
+<p>一定不要抱着一种思想，觉得八股文或者基础问题的考查意义不大。如果你抱着这种思想复习的话，那效果可能不会太好。实际上，个人认为还是很有意义的，八股文或者基础性的知识在日常开发中也会需要经常用到。例如，线程池这块的拒绝策略、核心参数配置什么的，如果你不了解，实际项目中使用线程池可能就用的不是很明白，容易出现问题。而且，其实这种基础性的问题是最容易准备的，像各种底层原理、系统设计、场景题以及深挖你的项目这类才是最难的！</p>
+<p>八股文资料首推我的 <a href="https://t.zsxq.com/11rZ6D7Wk" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a> (配合 JavaGuide 使用，会根据每一年的面试情况对内容进行更新完善)和 <a href="https://javaguide.cn/" target="_blank" rel="noopener noreferrer">JavaGuide</a> 。里面不仅仅是原创八股文，还有很多对实际开发有帮助的干货。除了我的资料之外，你还可以去网上找一些其他的优质的文章、视频来看。</p>
+<p><img src="https://oss.javaguide.cn/javamianshizhibei/javamianshizhibei-content-overview.png" alt="《Java 面试指北》内容概览"></p>
+<h2>提前准备手撕算法</h2>
+<p>很明显，国内现在的校招面试开始越来越重视算法了，尤其是像字节跳动、腾讯这类大公司。绝大部分公司的校招笔试是有算法题的，如果 AC 率比较低的话，基本就挂掉了。</p>
+<p>社招的话，算法面试同样会有。不过，面试官可能会更看重你的工程能力，你的项目经历。如果你的其他方面都很优秀，但是算法很菜的话，不一定会挂掉。不过，还是建议刷下算法题，避免让其成为自己在面试中的短板。</p>
+<p>社招往往是在技术面试的最后，面试官给你一个算法题目让你做。</p>
+<p>关于如何准备算法面试<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a> 的面试准备篇有详细介绍到。</p>
+<p><img src="https://oss.javaguide.cn/javamianshizhibei/preparation-for-interview.png" alt="《Java 面试指北》面试准备篇"></p>
+<h2>提前准备自我介绍</h2>
+<p>自我介绍一般是你和面试官的第一次面对面正式交流，换位思考一下，假如你是面试官的话，你想听到被你面试的人如何介绍自己呢？一定不是客套地说说自己喜欢编程、平时花了很多时间来学习、自己的兴趣爱好是打球吧？</p>
+<p>我觉得一个好的自我介绍至少应该包含这几点要素：</p>
+<ul>
+<li>用简洁的话说清楚自己主要的技术栈于擅长的领域；</li>
+<li>把重点放在自己在行的地方以及自己的优势之处；</li>
+<li>重点突出自己的能力比如自己的定位的 bug 的能力特别厉害；</li>
+</ul>
+<p>简单来说就是用简洁的语言突出自己的亮点，也就是推销自己嘛！</p>
+<ul>
+<li>如果你去过大公司实习，那对应的实习经历就是你的亮点。</li>
+<li>如果你参加过技术竞赛，那竞赛经历就是你的亮点。</li>
+<li>如果你大学就接触过企业级项目的开发，实战经验比较多，那这些项目经历就是你的亮点。</li>
+<li>……</li>
+</ul>
+<p>从社招和校招两个角度来举例子吧！我下面的两个例子仅供参考，自我介绍并不需要死记硬背，记住要说的要点，面试的时候根据公司的情况临场发挥也是没问题的。另外，网上一般建议的是准备好两份自我介绍：一份对 hr 说的，主要讲能突出自己的经历，会的编程技术一语带过；另一份对技术面试官说的，主要讲自己会的技术细节和项目经验。</p>
+<p><strong>社招：</strong></p>
+<blockquote>
+<p>面试官，您好！我叫独秀儿。我目前有 1 年半的工作经验，熟练使用 Spring、MyBatis 等框架、了解 Java 底层原理比如 JVM 调优并且有着丰富的分布式开发经验。离开上一家公司是因为我想在技术上得到更多的锻炼。在上一个公司我参与了一个分布式电子交易系统的开发，负责搭建了整个项目的基础架构并且通过分库分表解决了原始数据库以及一些相关表过于庞大的问题，目前这个网站最高支持 10 万人同时访问。工作之余，我利用自己的业余时间写了一个简单的 RPC 框架，这个框架用到了 Netty 进行网络通信， 目前我已经将这个项目开源，在 GitHub 上收获了 2k 的 Star! 说到业余爱好的话，我比较喜欢通过博客整理分享自己所学知识，现在已经是多个博客平台的认证作者。 生活中我是一个比较积极乐观的人，一般会通过运动打球的方式来放松。我一直都非常想加入贵公司，我觉得贵公司的文化和技术氛围我都非常喜欢，期待能与你共事！</p>
+</blockquote>
+<p><strong>校招：</strong></p>
+<blockquote>
+<p>面试官，您好！我叫秀儿。大学时间我主要利用课外时间学习了 Java 以及 Spring、MyBatis 等框架 。在校期间参与过一个考试系统的开发，这个系统的主要用了 Spring、MyBatis 和 shiro 这三种框架。我在其中主要担任后端开发，主要负责了权限管理功能模块的搭建。另外，我在大学的时候参加过一次软件编程大赛，我和我的团队做的在线订餐系统成功获得了第二名的成绩。我还利用自己的业余时间写了一个简单的 RPC 框架，这个框架用到了 Netty 进行网络通信， 目前我已经将这个项目开源，在 GitHub 上收获了 2k 的 Star! 说到业余爱好的话，我比较喜欢通过博客整理分享自己所学知识，现在已经是多个博客平台的认证作者。 生活中我是一个比较积极乐观的人，一般会通过运动打球的方式来放松。我一直都非常想加入贵公司，我觉得贵公司的文化和技术氛围我都非常喜欢，期待能与你共事！</p>
+</blockquote>
+<h2>减少抱怨</h2>
+<p>就像现在的技术面试一样，大家都说内卷了，抱怨现在的面试真特么难。然而，单纯抱怨有用么？你对其他求职者说：“大家都不要刷 Leetcode 了啊！都不要再准备高并发、高可用的面试题了啊！现在都这么卷了！”</p>
+<p>会有人听你的么？<strong>你不准备面试，但是其他人会准备面试啊！那你是不是傻啊？还是真的厉害到不需要准备面试呢？</strong></p>
+<p>因此，准备 Java 面试的第一步，我们一定要尽量减少抱怨。抱怨的声音多了之后，会十分影响自己，会让自己变得十分焦虑。</p>
+<h2>面试之后及时复盘</h2>
+<p>如果失败，不要灰心；如果通过，切勿狂喜。面试和工作实际上是两回事，可能很多面试未通过的人，工作能力比你强的多，反之亦然。</p>
+<p>面试就像是一场全新的征程，失败和胜利都是平常之事。所以，劝各位不要因为面试失败而灰心、丧失斗志。也不要因为面试通过而沾沾自喜，等待你的将是更美好的未来，继续加油！</p>
+<h2>总结</h2>
+<p>这篇文章内容有点多，如果这篇文章只能让你记住 7 句话，那请记住下面这 7 句：</p>
+<ol>
+<li>
+<p>一定要提前准备面试！技术面试不同于编程，编程厉害不代表技术面试就一定能过。</p>
+</li>
+<li>
+<p>一定不要对面试抱有侥幸心理。打铁还需自身硬！千万不要觉得自己看几篇面经，看几篇面试题解析就能通过面试了。一定要静下心来深入学习！尤其是目标是大厂的同学，那更要深挖原理！</p>
+</li>
+<li>
+<p>建议大学生尽可能早一点以求职为导向来学习的。这样更有针对性，并且可以大概率减少自己处在迷茫的时间，很大程度上还可以让自己少走很多弯路。 但是，不要把“以求职为导向学习”理解为“我就不用学课堂上那些计算机基础课程了”！</p>
+</li>
+<li>
+<p>一定不要抱着一种思想，觉得八股文或者基础问题的考查意义不大。如果你抱着这种思想复习的话，那效果可能不会太好。实际上，个人认为还是很有意义的，八股文或者基础性的知识在日常开发中也会需要经常用到。例如，线程池这块的拒绝策略、核心参数配置什么的，如果你不了解，实际项目中使用线程池可能就用的不是很明白，容易出现问题。</p>
+</li>
+<li>
+<p>手撕算法是当下技术面试的标配，尽早准备！</p>
+</li>
+<li>
+<p>岗位匹配度很重要。校招通常会对你的项目经历的研究方向比较宽容，即使你的项目经历和对应公司的具体业务没有关系，影响其实也并不大。社招的话就不一样了，毕竟公司是要招聘可以直接来干活的人，你有相关的经验，公司会比较省事。</p>
+</li>
+<li>
+<p>面试之后及时复盘。面试就像是一场全新的征程，失败和胜利都是平常之事。所以，劝各位不要因为面试失败而灰心、丧失斗志。也不要因为面试通过而沾沾自喜，等待你的将是更美好的未来，继续加油！</p>
+</li>
+</ol>
+]]></content:encoded>
+      <enclosure url="https://oss.javaguide.cn/github/javaguide/interview-preparation/format,png.png" type="image/png"/>
+    </item>
+    <item>
       <title>贡献指南</title>
       <link>https://javaguide.cn/javaguide/contribution-guideline.html</link>
       <guid>https://javaguide.cn/javaguide/contribution-guideline.html</guid>
       <source url="https://javaguide.cn/rss.xml">贡献指南</source>
       <description>欢迎参与 JavaGuide 的维护工作，这是一件非常有意义的事情。详细信息请看：JavaGuide 贡献指南 。 你可以从下面几个方向来做贡献： 修改错别字，毕竟内容基本都是手敲，难免会有笔误。 对原有内容进行修改完善，例如对某个面试问题的答案进行完善、对某篇文章的内容进行完善。 新增内容，例如新增面试常问的问题、添加重要知识点的详解。 目前的贡献奖...</description>
       <category>走近项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>欢迎参与 JavaGuide 的维护工作，这是一件非常有意义的事情。详细信息请看：<a href="https://zhuanlan.zhihu.com/p/464832264" target="_blank" rel="noopener noreferrer">JavaGuide 贡献指南</a> 。</p>
 <p>你可以从下面几个方向来做贡献：</p>
 <ul>
@@ -5057,7 +5222,7 @@
       <source url="https://javaguide.cn/rss.xml">常见问题</source>
       <description>JavaGuide 是否支持 RSS？ 必须支持！推荐 RSS 订阅本网站获取最新更新。 JavaGuide 有没有 PDF 版本？ 由于 JavaGuide 内容在持续完善，所以并没有一个完全与之同步的 PDF 版本提供。如果你想要 PDF 版本的话，可以考虑 《JavaGuide 面试突击版》 ，这是对 JavaGuide 内容的浓缩总结。 《Ja...</description>
       <category>走近项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>JavaGuide 是否支持 RSS？</h2>
 <p>必须支持！推荐 RSS 订阅本网站获取最新更新。</p>
 <h2>JavaGuide 有没有 PDF 版本？</h2>
@@ -5097,7 +5262,7 @@
       <source url="https://javaguide.cn/rss.xml">网站历史</source>
       <description>由于项目内容一直持续在更新迭代，所以，这里就不记录项目内容的具体更新情况了。 你可以通过 RSS 订阅获取网站的最新更新，你还可以通过 https://javaguide.cn/article/获取到网站最新更新的文章。 这里只记录一些比较重要的一些节点： 2022-06-13：完善网站排版以及样式。 2022-04-09：添加技术书籍精选。 2021...</description>
       <category>走近项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>由于项目内容一直持续在更新迭代，所以，这里就不记录项目内容的具体更新情况了。</p>
 <p>你可以通过 <a href="https://javaguide.cn/feed.json" target="_blank" rel="noopener noreferrer">RSS 订阅</a>获取网站的最新更新，你还可以通过 <a href="https://javaguide.cn/article/" target="_blank" rel="noopener noreferrer">https://javaguide.cn/article/</a>获取到网站最新更新的文章。</p>
 <p><img src="https://oss.javaguide.cn/github/javaguideimage-20220614172338606.png" alt=""></p>
@@ -5120,7 +5285,7 @@
       <source url="https://javaguide.cn/rss.xml">项目介绍</source>
       <description>我是 19 年大学毕业的，在大三准备面试的时候，我开源了 JavaGuide 。我把自己准备面试过程中的一些总结都毫不保留地通过 JavaGuide 分享了出来。 开源 JavaGuide 初始想法源于自己的个人那一段比较迷茫的学习经历，主要目的是为了通过这个开源平台来帮助一些在学习 Java 或者面试过程中遇到问题的小伙伴。 对于 Java 初学者来...</description>
       <category>走近项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>我是 19 年大学毕业的，在大三准备面试的时候，我开源了 JavaGuide 。我把自己准备面试过程中的一些总结都毫不保留地通过 JavaGuide 分享了出来。</p>
 <p>开源 JavaGuide 初始想法源于自己的个人那一段比较迷茫的学习经历，主要目的是为了通过这个开源平台来帮助一些在学习 Java 或者面试过程中遇到问题的小伙伴。</p>
 <ul>
@@ -5154,7 +5319,7 @@
       <source url="https://javaguide.cn/rss.xml">使用建议</source>
       <description>对于不准备面试的同学来说 ，本文档倾向于给你提供一个比较详细的学习路径，目录清晰，让你对于 Java 整体的知识体系有一个清晰认识。你可以跟着视频、书籍或者官方文档学习完某个知识点之后，然后来这里找对应的总结，帮助你更好地掌握对应的知识点。甚至说，你在有编程基础的情况下，想要学习某个知识点的话，可以直接看我的总结，这样学习效率会非常高。 对于准备面试的...</description>
       <category>走近项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>对于不准备面试的同学来说</strong> ，本文档倾向于给你提供一个比较详细的学习路径，目录清晰，让你对于 Java 整体的知识体系有一个清晰认识。你可以跟着视频、书籍或者官方文档学习完某个知识点之后，然后来这里找对应的总结，帮助你更好地掌握对应的知识点。甚至说，你在有编程基础的情况下，想要学习某个知识点的话，可以直接看我的总结，这样学习效率会非常高。</p>
 <p><strong>对于准备面试的同学来说</strong> ，本文档涵盖 Java 程序员所需要掌握的核心知识的常见面试问题总结。</p>
 <p>大部分人看 JavaGuide 应该都是为了准备技术八股文。<strong>那如何才能更高效地准备技术八股文？</strong></p>
@@ -5175,7 +5340,7 @@
       <source url="https://javaguide.cn/rss.xml">Java 开源项目精选</source>
       <description>这是一则或许对你有用的小广告 面试专版：准备 Java 面试的小伙伴可以考虑面试专版： (质量非常高，专为面试打造，配合 JavaGuide 食用效果最佳)。 知识星球：技术专栏/一对一提问/简历修改/求职指南/面试打卡/不定时福利，欢迎加入 。 精选 GitHub 和 Gitee 上优质的 Java 开源项目。 灵感来源于awesome-java 这...</description>
       <category>开源项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -5231,7 +5396,7 @@
       <source url="https://javaguide.cn/rss.xml">Java 优质开源大数据项目</source>
       <description>Spark :Spark 是用于大规模数据处理的统一分析引擎。 Flink：Apache Flink 是一个框架和分布式处理引擎，用于在无边界和有边界数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。 HBase：HBase – Hadoop Database，是一个高可靠性、高性能、面向列、可伸缩的分...</description>
       <category>开源项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<ul>
 <li><strong><a href="https://github.com/apache/spark" target="_blank" rel="noopener noreferrer">Spark</a></strong> :Spark 是用于大规模数据处理的统一分析引擎。</li>
 <li><strong><a href="https://github.com/apache/flink" title="flink" target="_blank" rel="noopener noreferrer">Flink</a></strong>：Apache Flink 是一个框架和分布式处理引擎，用于在<em>无边界和有边界</em>数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。</li>
@@ -5248,7 +5413,7 @@
       <source url="https://javaguide.cn/rss.xml">Java 优质开源 AI 项目</source>
       <description>由于 Java 在 AI 领域目前的应用较少，因此相关的开源项目也非常少。 基础框架 Spring AI：人工智能工程应用框架，为开发 AI 应用程序提供了 Spring 友好的 API 和抽象。 Spring AI Alibaba：一款 Java 语言实现的 AI 应用开发框架，旨在简化 Java AI 应用程序开发，让 Java 开发者像使用 Sp...</description>
       <category>开源项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>由于 Java 在 AI 领域目前的应用较少，因此相关的开源项目也非常少。</p>
 <h2>基础框架</h2>
 <ul>
@@ -5273,7 +5438,7 @@
       <source url="https://javaguide.cn/rss.xml">Java 优质开源实战项目</source>
       <description>快速开发平台 Snowy：国内首个国密前后端分离快速开发平台。详细介绍：5.1k！这是我见过最强的前后端分离快速开发脚手架！！。 eladmin : 前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由。 RuoYi：RuoYi 一款基于基于 SpringBoot ...</description>
       <category>开源项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>快速开发平台</h2>
 <ul>
 <li><a href="https://gitee.com/xiaonuobase/snowy" target="_blank" rel="noopener noreferrer">Snowy</a>：国内首个国密前后端分离快速开发平台。详细介绍：<a href="https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&amp;mid=2247534316&amp;idx=1&amp;sn=69938397674fc33ecda43c8c9d0a4039&amp;chksm=cea10927f9d68031bc862485c6be984ade5af233d4d871d498c38f22164a84314678c0c67cd7&amp;token=1464380539&amp;lang=zh_CN#rd" target="_blank" rel="noopener noreferrer">5.1k！这是我见过最强的前后端分离快速开发脚手架！！</a>。</li>
@@ -5361,7 +5526,7 @@
       <source url="https://javaguide.cn/rss.xml">Java 优质开源系统设计项目</source>
       <description>基础框架 Web 框架 Spring Boot：Spring Boot 可以轻松创建独立的生产级基于 Spring 的应用程序，内置 web 服务器让你可以像运行普通 Java 程序一样运行项 目。另外，大部分 Spring Boot 项目只需要少量的配置即可，这有别于 Spring 的重配置。 SOFABoot：SOFABoot 基于 Spring ...</description>
       <category>开源项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>基础框架</h2>
 <h3>Web 框架</h3>
 <ul>
@@ -5604,7 +5769,7 @@
       <source url="https://javaguide.cn/rss.xml">Java 优质开源工具类</source>
       <description>代码质量 Lombok :一个能够简化 Java 代码的强大工具库。通过使用 Lombok 的注解，我们可以自动生成常用的代码逻辑，例如 getter、setter、equals、hashCode、toString 方法，以及构造器、日志变量等内容。 Guava： Google 开发的一组功能强大的核心库，扩展了 Java 的标准库功能。它提供了许多有...</description>
       <category>开源项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>代码质量</h2>
 <ul>
 <li><a href="https://github.com/rzwitserloot/lombok" target="_blank" rel="noopener noreferrer">Lombok</a> :一个能够简化 Java 代码的强大工具库。通过使用 Lombok 的注解，我们可以自动生成常用的代码逻辑，例如 <code>getter</code>、<code>setter</code>、<code>equals</code>、<code>hashCode</code>、<code>toString</code> 方法，以及构造器、日志变量等内容。</li>
@@ -5684,7 +5849,7 @@
       <source url="https://javaguide.cn/rss.xml">Java 优质开源开发工具</source>
       <description>代码质量 SonarQube：静态代码检查工具，，帮助检查代码缺陷，可以快速的定位代码中潜在的或者明显的错误，改善代码质量，提高开发速度。 Spotless：Spotless 是支持多种语言的代码格式化工具，支持 Maven 和 Gradle 以 Plugin 的形式构建。 CheckStyle : 类似于 Spotless，可帮助程序员编写符合编码标...</description>
       <category>开源项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>代码质量</h2>
 <ul>
 <li><a href="https://github.com/SonarSource/sonarqube" title="sonarqube" target="_blank" rel="noopener noreferrer">SonarQube</a>：静态代码检查工具，，帮助检查代码缺陷，可以快速的定位代码中潜在的或者明显的错误，改善代码质量，提高开发速度。</li>
@@ -5759,7 +5924,7 @@
       <source url="https://javaguide.cn/rss.xml">Java 优质开源技术教程</source>
       <description>Java JavaGuide :【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。 toBeBetterJavaer：一份通俗易懂、风趣幽默的 Java 学习指南，内容涵盖 Java 基础、Java 集合框架、Java 并发编程、JVM、Java 企业级开发（Git、SSM、Spring Boot）等知识点。 inte...</description>
       <category>开源项目</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>Java</h2>
 <ul>
 <li><a href="https://github.com/Snailclimb/JavaGuide" title="JavaGuide" target="_blank" rel="noopener noreferrer">JavaGuide</a> :【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。</li>
@@ -5821,7 +5986,7 @@
       <guid>https://javaguide.cn/system-design/J2EE%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html</guid>
       <source url="https://javaguide.cn/rss.xml">Servlet 总结</source>
       <description>Servlet 总结 在 Java Web 程序中，Servlet主要负责接收用户请求 HttpServletRequest,在doGet(),doPost()中做相应的处理，并将回应HttpServletResponse反馈给用户。Servlet 可以设置初始化参数，供 Servlet 内部使用。一个 Servlet 类只会有一个实例，在它初始化时调...</description>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[
 <p>在 Java Web 程序中，<strong>Servlet</strong>主要负责接收用户请求 <code>HttpServletRequest</code>,在<code>doGet()</code>,<code>doPost()</code>中做相应的处理，并将回应<code>HttpServletResponse</code>反馈给用户。<strong>Servlet</strong> 可以设置初始化参数，供 Servlet 内部使用。一个 Servlet 类只会有一个实例，在它初始化时调用<code>init()</code>方法，销毁时调用<code>destroy()</code>方法**。**Servlet 需要在 web.xml 中配置（MyEclipse 中创建 Servlet 会自动配置），<strong>一个 Servlet 可以设置多个 URL 访问</strong>。<strong>Servlet 不是线程安全</strong>，因此要谨慎使用类变量。</p>
 <h2>阐述 Servlet 和 CGI 的区别?</h2>
@@ -6036,7 +6201,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">设计模式常见面试题总结</source>
       <description>设计模式 相关的面试题已经整理到了 PDF 手册中，你可以在我的公众号“JavaGuide”后台回复“PDF” 获取。 JavaGuide 官方公众号 《设计模式》PDF 电子书内容概览： 《设计模式》PDF文档概览 JavaGuide 官方公众号</description>
       <category>系统设计</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>设计模式</strong> 相关的面试题已经整理到了 PDF 手册中，你可以在我的公众号“<strong>JavaGuide</strong>”后台回复“<strong>PDF</strong>” 获取。</p>
 <p><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号"></p>
 <p><strong>《设计模式》PDF 电子书内容概览</strong>：</p>
@@ -6052,7 +6217,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">Java 定时任务详解</source>
       <description>为什么需要定时任务？ 我们来看一下几个非常常见的业务场景： 某系统凌晨 1 点要进行数据备份。 某电商平台，用户下单半个小时未支付的情况下需要自动取消订单。 某媒体聚合平台，每 10 分钟动态抓取某某网站的数据为自己所用。 某博客平台，支持定时发送文章。 某基金平台，每晚定时计算用户当日收益情况并推送给用户最新的数据。 …… 这些场景往往都要求我们在某...</description>
       <category>系统设计</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>为什么需要定时任务？</h2>
 <p>我们来看一下几个非常常见的业务场景：</p>
 <ol>
@@ -6224,7 +6389,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">系统设计常见面试题总结(付费)</source>
       <description>系统设计 相关的面试题为我的知识星球（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。 （点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 JavaGuide 的补充完善，两者可以配合使用。 《Java 面试指北》内容概览 为了帮助更多同学准备 Java 面试以及学习 Java ，我创建了一个纯粹的。...</description>
       <category>Java面试指北</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>系统设计</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a>中。</p>
 <p><img src="https://oss.javaguide.cn/javamianshizhibei/system-design-questions.png" alt=""></p>
 <p><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a>（点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 <a href="https://javaguide.cn/#/" target="_blank" rel="noopener noreferrer">JavaGuide</a> 的补充完善，两者可以配合使用。</p>
@@ -6251,7 +6416,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">Web 实时消息推送详解</source>
       <description>原文地址：https://juejin.cn/post/7122014462181113887，JavaGuide 对本文进行了完善总结。 我有一个朋友做了一个小破站，现在要实现一个站内信 Web 消息推送的功能，对，就是下图这个小红点，一个很常用的功能。 站内信 Web 消息推送 不过他还没想好用什么方式做，这里我帮他整理了一下几种方案，并简单做了实...</description>
       <category>系统设计</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>原文地址：<a href="https://juejin.cn/post/7122014462181113887%EF%BC%8CJavaGuide" target="_blank" rel="noopener noreferrer">https://juejin.cn/post/7122014462181113887，JavaGuide</a> 对本文进行了完善总结。</p>
 </blockquote>
@@ -6612,7 +6777,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">星球专属优质专栏概览</source>
       <description>这部分的内容为我的专属，目前已经更新了下面这些专栏： : 与 JavaGuide 开源版的内容互补！ : 包含了常见的系统设计案例比如短链系统、秒杀系统以及高频的场景题比如海量数据去重、第三方授权登录。 : 从零开始基于 Netty+Kyro+Zookeeper 实现一个简易的 RPC 框架。 ：目前已经整理了 Dubbo 2.6.x、Netty 4....</description>
       <category>知识星球</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>这部分的内容为我的<a href="/about-the-author/zhishixingqiu-two-years.html" target="_blank">知识星球</a>专属，目前已经更新了下面这些专栏：</p>
 <ul>
 <li><strong><a href="/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong> : 与 JavaGuide 开源版的内容互补！</li>
@@ -6646,7 +6811,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">《后端面试高频系统设计&amp;场景题》</source>
       <description>介绍 《后端面试高频系统设计&amp;场景题》 是我的的一个内部小册，包含了常见的系统设计案例比如短链系统、秒杀系统以及高频的场景题比如海量数据去重、第三方授权登录。 近年来，随着国内的技术面试越来越卷，越来越多的公司开始在面试中考察系统设计和场景问题，以此来更全面的考察求职者，不论是校招还是社招。不过，正常面试全是场景题的情况还是极少的，面试官一般会在面试中...</description>
       <category>知识星球</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>介绍</h2>
 <p><strong>《后端面试高频系统设计&amp;场景题》</strong> 是我的<a href="/about-the-author/zhishixingqiu-two-years.html" target="_blank">知识星球</a>的一个内部小册，包含了常见的系统设计案例比如短链系统、秒杀系统以及高频的场景题比如海量数据去重、第三方授权登录。</p>
 <p>近年来，随着国内的技术面试越来越卷，越来越多的公司开始在面试中考察系统设计和场景问题，以此来更全面的考察求职者，不论是校招还是社招。不过，正常面试全是场景题的情况还是极少的，面试官一般会在面试中穿插一两个系统设计和场景题来考察你。</p>
@@ -6679,7 +6844,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">《手写 RPC 框架》</source>
       <description>介绍 《手写 RPC 框架》 是我的的一个内部小册，我写了 12 篇文章来讲解如何从零开始基于 Netty+Kyro+Zookeeper 实现一个简易的 RPC 框架。 麻雀虽小五脏俱全，项目代码注释详细，结构清晰，并且集成了 Check Style 规范代码结构，非常适合阅读和学习。 内容概览 通过这个简易的轮子，你可以学到 RPC 的底层原理和原理...</description>
       <category>知识星球</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>介绍</h2>
 <p><strong>《手写 RPC 框架》</strong> 是我的<a href="/about-the-author/zhishixingqiu-two-years.html" target="_blank">知识星球</a>的一个内部小册，我写了 12 篇文章来讲解如何从零开始基于 Netty+Kyro+Zookeeper 实现一个简易的 RPC 框架。</p>
 <p>麻雀虽小五脏俱全，项目代码注释详细，结构清晰，并且集成了 Check Style 规范代码结构，非常适合阅读和学习。</p>
@@ -6714,7 +6879,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">《Java 面试指北》</source>
       <description>我花费了三年的时间，写了一本针对 Java 面试的《Java 面试指北》，内容质量非常高，非常适合准备 Java 面试的朋友使用！ 目前的成绩：累计阅读 270w+ ，点赞 3550+ ，评论 1130+ （几乎每一条提问类型的评论我看到后都会用心回复）。 《Java 面试指北》统计 介绍 《Java 面试指北》 是我的的一个内部小册，和 JavaGu...</description>
       <category>知识星球</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>我花费了三年的时间，写了一本针对 Java 面试的《Java 面试指北》，内容质量非常高，非常适合准备 Java 面试的朋友使用！</p>
 <p>目前的成绩：累计阅读 <strong>270w+</strong> ，点赞 <strong>3550+</strong> ，评论 <strong>1130+</strong> （几乎每一条提问类型的评论我看到后都会用心回复）。</p>
 <p><img src="https://oss.javaguide.cn/xingqiu/java-interview-guide-statistics.png" alt="《Java 面试指北》统计"></p>
@@ -6781,7 +6946,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">《Java 必读源码系列》</source>
       <description>介绍 《Java 必读源码系列》 是我的的一个内部小册，目前已经整理了 Dubbo 2.6.x、Netty 4.x、SpringBoot 2.1 等框架/中间件的源码。后续还会整理更多值得阅读的优质源码，持续完善中。 结构清晰，内容详细，非常适合想要深入学习框架/中间件源码的同学阅读。 内容概览 星球其他资源 除了提供了 《Java 面试指北》 、 《...</description>
       <category>知识星球</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>介绍</h2>
 <p><strong>《Java 必读源码系列》</strong> 是我的<a href="/about-the-author/zhishixingqiu-two-years.html" target="_blank">知识星球</a>的一个内部小册，目前已经整理了 Dubbo 2.6.x、Netty 4.x、SpringBoot 2.1 等框架/中间件的源码。后续还会整理更多值得阅读的优质源码，持续完善中。</p>
 <p>结构清晰，内容详细，非常适合想要深入学习框架/中间件源码的同学阅读。</p>
@@ -6814,7 +6979,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">十大经典排序算法总结</source>
       <description>本文转自：http://www.guoyaohua.com/sorting.html，JavaGuide 对其做了补充完善。 引言 所谓排序，就是使一串记录，按照其中的某个或某些关键字的大小，递增或递减的排列起来的操作。排序算法，就是如何使得记录按照要求排列的方法。排序算法在很多领域得到相当地重视，尤其是在大量数据的处理方面。一个优秀的算法可以节省大量...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>本文转自：<a href="http://www.guoyaohua.com/sorting.html" target="_blank" rel="noopener noreferrer">http://www.guoyaohua.com/sorting.html</a>，JavaGuide 对其做了补充完善。</p>
 </blockquote>
@@ -6836,7 +7001,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">经典算法思想总结（含LeetCode题目推荐）</source>
       <description>贪心算法 算法思想 贪心的本质是选择每一阶段的局部最优，从而达到全局最优。 一般解题步骤 将问题分解为若干个子问题 找出适合的贪心策略 求解每一个子问题的最优解 将局部最优解堆叠成全局最优解 LeetCode 455.分发饼干：https://leetcode.cn/problems/assign-cookies/ 121.买卖股票的最佳时机：http...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>贪心算法</h2>
 <h3>算法思想</h3>
 <p>贪心的本质是选择每一阶段的局部最优，从而达到全局最优。</p>
@@ -6913,7 +7078,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">常见数据结构经典LeetCode题目推荐</source>
       <description>数组 704.二分查找：https://leetcode.cn/problems/binary-search/ 80.删除有序数组中的重复项 II：https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii 977.有序数组的平方：https://leetcode.cn/pro...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>数组</h2>
 <p>704.二分查找：<a href="https://leetcode.cn/problems/binary-search/" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/binary-search/</a></p>
 <p>80.删除有序数组中的重复项 II：<a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii</a></p>
@@ -6952,7 +7117,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">几道常见的链表算法题</source>
       <description>1. 两数相加 题目描述 Leetcode:给定两个非空链表来表示两个非负整数。位数按照逆序方式存储，它们的每个节点只存储单个数字。将两数相加返回一个新的链表。 你可以假设除了数字 0 之外，这两个数字都不会以零开头。 示例： 问题分析 Leetcode 官方详细解答地址： https://leetcode-cn.com/problems/add-tw...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<!-- markdownlint-disable MD024 -->
 <h2>1. 两数相加</h2>
 <h3>题目描述</h3>
@@ -7273,7 +7438,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">几道常见的字符串算法题</source>
       <description>作者：wwwxmu 原文地址:https://www.weiweiblog.cn/13string/ 1. KMP 算法 谈到字符串问题，不得不提的就是 KMP 算法，它是用来解决字符串查找的问题，可以在一个字符串（S）中查找一个子串（W）出现的位置。KMP 算法把字符匹配的时间复杂度缩小到 O(m+n) ,而空间复杂度也只有 O(m)。因为“暴力搜索...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>作者：wwwxmu</p>
 <p>原文地址:<a href="https://www.weiweiblog.cn/13string/" target="_blank" rel="noopener noreferrer">https://www.weiweiblog.cn/13string/</a></p>
@@ -7651,7 +7816,7 @@ mapping.findForward。 getAttribute 只能收到程序用 setAttribute 传过来
       <source url="https://javaguide.cn/rss.xml">剑指offer部分编程题</source>
       <description>斐波那契数列 题目描述： 大家都知道斐波那契数列，现在要求输入一个整数 n，请你输出斐波那契数列的第 n 项。 n&amp;lt;=39 问题分析： 可以肯定的是这一题通过递归的方式是肯定能做出来，但是这样会有一个很大的问题，那就是递归大量的重复计算会导致内存溢出。另外可以使用迭代法，用 fn1 和 fn2 保存计算过程中的结果，并复用起来。下面我会把两个方法示例代...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>斐波那契数列</h2>
 <p><strong>题目描述：</strong></p>
 <p>大家都知道斐波那契数列，现在要求输入一个整数 n，请你输出斐波那契数列的第 n 项。<br>
@@ -8188,7 +8353,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">布隆过滤器</source>
       <description>布隆过滤器相信大家没用过的话，也已经听过了。 布隆过滤器主要是为了解决海量数据的存在性问题。对于海量数据中判定某个数据是否存在且容忍轻微误差这一场景（比如缓存穿透、海量数据去重）来说，非常适合。 文章内容概览： 什么是布隆过滤器？ 布隆过滤器的原理介绍。 布隆过滤器使用场景。 通过 Java 编程手动实现布隆过滤器。 利用 Google 开源的 Gua...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>布隆过滤器相信大家没用过的话，也已经听过了。</p>
 <p>布隆过滤器主要是为了解决海量数据的存在性问题。对于海量数据中判定某个数据是否存在且容忍轻微误差这一场景（比如缓存穿透、海量数据去重）来说，非常适合。</p>
 <p>文章内容概览：</p>
@@ -8435,7 +8600,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">图</source>
       <description>图是一种较为复杂的非线性结构。 为啥说其较为复杂呢？ 根据前面的内容，我们知道： 线性数据结构的元素满足唯一的线性关系，每个元素(除第一个和最后一个外)只有一个直接前趋和一个直接后继。 树形数据结构的元素之间有着明显的层次关系。 但是，图形结构的元素之间的关系是任意的。 何为图呢？ 简单来说，图就是由顶点的有穷非空集合和顶点之间的边组成的集合。通常表示...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>图是一种较为复杂的非线性结构。 <strong>为啥说其较为复杂呢？</strong></p>
 <p>根据前面的内容，我们知道：</p>
 <ul>
@@ -8528,7 +8693,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">堆</source>
       <description>堆 什么是堆 堆是一种满足以下条件的树： 堆中的每一个节点值都大于等于（或小于等于）子树中所有节点的值。或者说，任意一个节点的值都大于等于（或小于等于）所有子节点的值。 大家可以把堆(最大堆)理解为一个公司,这个公司很公平,谁能力强谁就当老大,不存在弱的人当老大,老大手底下的人一定不会比他强。这样有助于理解后续堆的操作。 !!!特别提示： 很多博客说堆...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[
 <h2>什么是堆</h2>
 <p>堆是一种满足以下条件的树：</p>
@@ -8666,7 +8831,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">线性数据结构</source>
       <description>1. 数组 数组（Array） 是一种很常见的数据结构。它由相同类型的元素（element）组成，并且是使用一块连续的内存来存储。 我们直接可以利用元素的索引（index）可以计算出该元素对应的存储地址。 数组的特点是：提供随机访问 并且容量有限。 数组 2. 链表 2.1. 链表简介 链表（LinkedList） 虽然是一种线性表，但是并不会按线性的...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>1. 数组</h2>
 <p><strong>数组（Array）</strong> 是一种很常见的数据结构。它由相同类型的元素（element）组成，并且是使用一块连续的内存来存储。</p>
 <p>我们直接可以利用元素的索引（index）可以计算出该元素对应的存储地址。</p>
@@ -8921,7 +9086,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">红黑树</source>
       <description>红黑树介绍 红黑树（Red Black Tree）是一种自平衡二叉查找树。它是在 1972 年由 Rudolf Bayer 发明的，当时被称为平衡二叉 B 树（symmetric binary B-trees）。后来，在 1978 年被 Leo J. Guibas 和 Robert Sedgewick 修改为如今的“红黑树”。 由于其自平衡的特性，保证...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>红黑树介绍</h2>
 <p>红黑树（Red Black Tree）是一种自平衡二叉查找树。它是在 1972 年由 Rudolf Bayer 发明的，当时被称为平衡二叉 B 树（symmetric binary B-trees）。后来，在 1978 年被 Leo J. Guibas 和 Robert Sedgewick 修改为如今的“红黑树”。</p>
 <p>由于其自平衡的特性，保证了最坏情形下在 O(logn) 时间复杂度内完成查找、增加、删除等操作，性能表现稳定。</p>
@@ -8989,7 +9154,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">树</source>
       <description>树就是一种类似现实生活中的树的数据结构（倒置的树）。任何一颗非空树只有一个根节点。 一棵树具有以下特点： 一棵树中的任意两个结点有且仅有唯一的一条路径连通。 一棵树如果有 n 个结点，那么它一定恰好有 n-1 条边。 一棵树不包含回路。 下图就是一颗树，并且是一颗二叉树。 二叉树 如上图所示，通过上面这张图说明一下树中的常用概念： 节点：树中的每个元素...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>树就是一种类似现实生活中的树的数据结构（倒置的树）。任何一颗非空树只有一个根节点。</p>
 <p>一棵树具有以下特点：</p>
 <ol>
@@ -9114,7 +9279,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">应用层常见协议总结（应用层）</source>
       <description>HTTP:超文本传输协议 超文本传输协议（HTTP，HyperText Transfer Protocol) 是一种用于传输超文本和多媒体内容的协议，主要是为 Web 浏览器与 Web 服务器之间的通信而设计的。当我们使用浏览器浏览网页的时候，我们网页就是通过 HTTP 请求进行加载的。 HTTP 使用客户端-服务器模型，客户端向服务器发送 HTTP ...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>HTTP:超文本传输协议</h2>
 <p><strong>超文本传输协议（HTTP，HyperText Transfer Protocol)</strong> 是一种用于传输超文本和多媒体内容的协议，主要是为 Web 浏览器与 Web 服务器之间的通信而设计的。当我们使用浏览器浏览网页的时候，我们网页就是通过 HTTP 请求进行加载的。</p>
 <p>HTTP 使用客户端-服务器模型，客户端向服务器发送 HTTP Request（请求），服务器响应请求并返回 HTTP Response（响应），整个过程如下图所示。</p>
@@ -9224,7 +9389,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">ARP 协议详解(网络层)</source>
       <description>每当我们学习一个新的网络协议的时候，都要把他结合到 OSI 七层模型中，或者是 TCP/IP 协议栈中来学习，一是要学习该协议在整个网络协议栈中的位置，二是要学习该协议解决了什么问题，地位如何？三是要学习该协议的工作原理，以及一些更深入的细节。 ARP 协议，可以说是在协议栈中属于一个偏底层的、非常重要的、又非常简单的通信协议。 开始阅读这篇文章之前，...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>每当我们学习一个新的网络协议的时候，都要把他结合到 OSI 七层模型中，或者是 TCP/IP 协议栈中来学习，一是要学习该协议在整个网络协议栈中的位置，二是要学习该协议解决了什么问题，地位如何？三是要学习该协议的工作原理，以及一些更深入的细节。</p>
 <p><strong>ARP 协议</strong>，可以说是在协议栈中属于一个<strong>偏底层的、非常重要的、又非常简单的</strong>通信协议。</p>
 <p>开始阅读这篇文章之前，你可以先看看下面几个问题：</p>
@@ -9324,7 +9489,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">《计算机网络》（谢希仁）内容总结</source>
       <description>本文是我在大二学习计算机网络期间整理， 大部分内容都来自于谢希仁老师的《计算机网络》第七版这本书。为了内容更容易理解，我对之前的整理进行了一波重构，并配上了一些相关的示意图便于理解。 相关问题：如何评价谢希仁的计算机网络（第七版）？ - 知乎 。 1. 计算机网络概述 1.1. 基本术语 结点 （node）：网络中的结点可以是计算机，集线器，交换机或路...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>本文是我在大二学习计算机网络期间整理， 大部分内容都来自于谢希仁老师的<a href="https://www.elias.ltd/usr/local/etc/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%EF%BC%88%E7%AC%AC7%E7%89%88%EF%BC%89%E8%B0%A2%E5%B8%8C%E4%BB%81.pdf" target="_blank" rel="noopener noreferrer">《计算机网络》第七版</a>这本书。为了内容更容易理解，我对之前的整理进行了一波重构，并配上了一些相关的示意图便于理解。</p>
 <p><img src="https://oss.javaguide.cn/p3-juejin/fb5d8645cd55484ab0177f25a13e97db~tplv-k3u1fbpfcp-zoom-1.png" alt=""></p>
 <p>相关问题：<a href="https://www.zhihu.com/question/327872966" target="_blank" rel="noopener noreferrer">如何评价谢希仁的计算机网络（第七版）？ - 知乎</a> 。</p>
@@ -9720,7 +9885,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">DNS 域名系统详解（应用层）</source>
       <description>DNS（Domain Name System）域名管理系统，是当用户使用浏览器访问网址之后，使用的第一个重要协议。DNS 要解决的是域名和 IP 地址的映射问题。 DNS:域名系统 在实际使用中，有一种情况下，浏览器是可以不必动用 DNS 就可以获知域名和 IP 地址的映射的。浏览器在本地会维护一个hosts列表，一般来说浏览器要先查看要访问的域名是否...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>DNS（Domain Name System）域名管理系统，是当用户使用浏览器访问网址之后，使用的第一个重要协议。DNS 要解决的是<strong>域名和 IP 地址的映射问题</strong>。</p>
 <p><img src="https://oss.javaguide.cn/github/javaguide/cs-basics/network/dns-overview.png" alt="DNS:域名系统"></p>
 <p>在实际使用中，有一种情况下，浏览器是可以不必动用 DNS 就可以获知域名和 IP 地址的映射的。浏览器在本地会维护一个<code>hosts</code>列表，一般来说浏览器要先查看要访问的域名是否在<code>hosts</code>列表中，如果有的话，直接提取对应的 IP 地址记录，就好了。如果本地<code>hosts</code>列表内没有域名-IP 对应记录的话，那么 DNS 就闪亮登场了。</p>
@@ -9795,7 +9960,7 @@ f(n)=f(n-1)+f(n-2)+...+f(1)<br>
       <source url="https://javaguide.cn/rss.xml">HTTP 常见状态码总结（应用层）</source>
       <description>HTTP 状态码用于描述 HTTP 请求的结果，比如 2xx 就代表请求被成功处理。 常见 HTTP 状态码 1xx Informational（信息性状态码） 相比于其他类别状态码来说，1xx 你平时你大概率不会碰到，所以这里直接跳过。 2xx Success（成功状态码） 200 OK：请求被成功处理。例如，发送一个查询用户数据的 HTTP 请求到...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>HTTP 状态码用于描述 HTTP 请求的结果，比如 2xx 就代表请求被成功处理。</p>
 <p><img src="https://oss.javaguide.cn/github/javaguide/cs-basics/network/http-status-code.png" alt="常见 HTTP 状态码"></p>
 <h3>1xx Informational（信息性状态码）</h3>
@@ -9864,7 +10029,7 @@ terminated by the first empty line after the header fields.</p>
       <source url="https://javaguide.cn/rss.xml">HTTP vs HTTPS（应用层）</source>
       <description>HTTP 协议 HTTP 协议介绍 HTTP 协议，全称超文本传输协议（Hypertext Transfer Protocol）。顾名思义，HTTP 协议就是用来规范超文本的传输，超文本，也就是网络上的包括文本在内的各式各样的消息，具体来说，主要是来规范浏览器和服务器端的行为的。 并且，HTTP 是一个无状态（stateless）协议，也就是说服务器不...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>HTTP 协议</h2>
 <h3>HTTP 协议介绍</h3>
 <p>HTTP 协议，全称超文本传输协议（Hypertext Transfer Protocol）。顾名思义，HTTP 协议就是用来规范超文本的传输，超文本，也就是网络上的包括文本在内的各式各样的消息，具体来说，主要是来规范浏览器和服务器端的行为的。</p>
@@ -9966,7 +10131,7 @@ terminated by the first empty line after the header fields.</p>
       <source url="https://javaguide.cn/rss.xml">HTTP 1.0 vs HTTP 1.1（应用层）</source>
       <description>这篇文章会从下面几个维度来对比 HTTP 1.0 和 HTTP 1.1： 响应状态码 缓存处理 连接方式 Host 头处理 带宽优化 响应状态码 HTTP/1.0 仅定义了 16 种状态码。HTTP/1.1 中新加入了大量的状态码，光是错误响应状态码就新增了 24 种。比如说，100 (Continue)——在请求大资源前的预热请求，206 (Part...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>这篇文章会从下面几个维度来对比 HTTP 1.0 和 HTTP 1.1：</p>
 <ul>
 <li>响应状态码</li>
@@ -10079,7 +10244,7 @@ terminated by the first empty line after the header fields.</p>
       <source url="https://javaguide.cn/rss.xml">NAT 协议详解（网络层）</source>
       <description>应用场景 NAT 协议（Network Address Translation） 的应用场景如同它的名称——网络地址转换，应用于内部网到外部网的地址转换过程中。具体地说，在一个小的子网（局域网，Local Area Network，LAN）内，各主机使用的是同一个 LAN 下的 IP 地址，但在该 LAN 以外，在广域网（Wide Area Netwo...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>应用场景</h2>
 <p><strong>NAT 协议（Network Address Translation）</strong> 的应用场景如同它的名称——网络地址转换，应用于内部网到外部网的地址转换过程中。具体地说，在一个小的子网（局域网，Local Area Network，LAN）内，各主机使用的是同一个 LAN 下的 IP 地址，但在该 LAN 以外，在广域网（Wide Area Network，WAN）中，需要一个统一的 IP 地址来标识该 LAN 在整个 Internet 上的位置。</p>
 <p>这个场景其实不难理解。随着一个个小型办公室、家庭办公室（Small Office, Home Office, SOHO）的出现，为了管理这些 SOHO，一个个子网被设计出来，从而在整个 Internet 中的主机数量将非常庞大。如果每个主机都有一个“绝对唯一”的 IP 地址，那么 IPv4 地址的表达能力可能很快达到上限（$2^{32}$）。因此，实际上，SOHO 子网中的 IP 地址是“相对的”，这在一定程度上也缓解了 IPv4 地址的分配压力。</p>
@@ -10132,7 +10297,7 @@ terminated by the first empty line after the header fields.</p>
       <source url="https://javaguide.cn/rss.xml">网络攻击常见手段总结</source>
       <description>本文整理完善自TCP/IP 常见攻击手段 - 暖蓝笔记 - 2021这篇文章。 这篇文章的内容主要是介绍 TCP/IP 常见攻击手段，尤其是 DDoS 攻击，也会补充一些其他的常见网络攻击手段。 IP 欺骗 IP 是什么? 在网络中，所有的设备都会分配一个地址。这个地址就仿佛小蓝的家地址「多少号多少室」，这个号就是分配给整个子网的，「室」对应的号码即分...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
 <p>本文整理完善自<a href="https://mp.weixin.qq.com/s/AZwWrOlLxRSSi-ywBgZ0fA" target="_blank" rel="noopener noreferrer">TCP/IP 常见攻击手段 - 暖蓝笔记 - 2021</a>这篇文章。</p>
 </blockquote>
@@ -10429,7 +10594,7 @@ terminated by the first empty line after the header fields.</p>
       <source url="https://javaguide.cn/rss.xml">OSI 和 TCP/IP 网络分层模型详解（基础）</source>
       <description>OSI 七层模型 OSI 七层模型 是国际标准化组织提出一个网络分层模型，其大体结构以及每一层提供的功能如下图所示： OSI 七层模型 每一层都专注做一件事情，并且每一层都需要使用下一层提供的功能比如传输层需要使用网络层提供的路由和寻址功能，这样传输层才知道把数据传输到哪里去。 OSI 的七层体系结构概念清楚，理论也很完整，但是它比较复杂而且不实用，而...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2>OSI 七层模型</h2>
 <p><strong>OSI 七层模型</strong> 是国际标准化组织提出一个网络分层模型，其大体结构以及每一层提供的功能如下图所示：</p>
 <p><img src="https://oss.javaguide.cn/github/javaguide/cs-basics/network/osi-7-model.png" alt="OSI 七层模型"></p>
@@ -10595,7 +10760,7 @@ terminated by the first empty line after the header fields.</p>
       <source url="https://javaguide.cn/rss.xml">计算机网络常见面试题总结(上)</source>
       <description>这是一则或许对你有用的小广告 面试专版：准备 Java 面试的小伙伴可以考虑面试专版： (质量非常高，专为面试打造，配合 JavaGuide 食用效果最佳)。 知识星球：技术专栏/一对一提问/简历修改/求职指南/面试打卡/不定时福利，欢迎加入 。 上篇主要是计算机网络基础和应用层相关的内容。 计算机网络基础 网络分层模型 OSI 七层模型是什么？每一层...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -10709,7 +10874,7 @@ terminated by the first empty line after the header fields.</p>
       <source url="https://javaguide.cn/rss.xml">计算机网络常见面试题总结(下)</source>
       <description>下篇主要是传输层和网络层相关的内容。 TCP 与 UDP TCP 与 UDP 的区别（重要） 是否面向连接： TCP 是面向连接的。在传输数据之前，必须先通过“三次握手”建立连接；数据传输完成后，还需要通过“四次挥手”来释放连接。这保证了双方都准备好通信。 UDP 是无连接的。发送数据前不需要建立任何连接，直接把数据包（数据报）扔出去。 是否是可靠传输...</description>
       <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
+      <pubDate>Sun, 22 Jun 2025 03:45:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>下篇主要是传输层和网络层相关的内容。</p>
 <h2>TCP 与 UDP</h2>
 <h3>TCP 与 UDP 的区别（重要）</h3>
@@ -10763,95 +10928,6 @@ terminated by the first empty line after the header fields.</p>
 |</p>
 ]]></content:encoded>
       <enclosure url="https://oss.javaguide.cn/github/javaguide/cs-basics/network/http-3-implementation.png" type="image/png"/>
-    </item>
-    <item>
-      <title>TCP 三次握手和四次挥手（传输层）</title>
-      <link>https://javaguide.cn/cs-basics/network/tcp-connection-and-disconnection.html</link>
-      <guid>https://javaguide.cn/cs-basics/network/tcp-connection-and-disconnection.html</guid>
-      <source url="https://javaguide.cn/rss.xml">TCP 三次握手和四次挥手（传输层）</source>
-      <description>为了准确无误地把数据送达目标处，TCP 协议采用了三次握手策略。 建立连接-TCP 三次握手 TCP 三次握手图解 建立一个 TCP 连接需要“三次握手”，缺一不可： 一次握手:客户端发送带有 SYN（SEQ=x） 标志的数据包 -&amp;gt; 服务端，然后客户端进入 SYN_SEND 状态，等待服务端的确认； 二次握手:服务端发送带有 SYN+ACK(SEQ=...</description>
-      <category>计算机基础</category>
-      <pubDate>Sun, 22 Jun 2025 03:42:59 GMT</pubDate>
-      <content:encoded><![CDATA[<p>为了准确无误地把数据送达目标处，TCP 协议采用了三次握手策略。</p>
-<h2>建立连接-TCP 三次握手</h2>
-<p><img src="https://oss.javaguide.cn/github/javaguide/cs-basics/network/tcp-shakes-hands-three-times.png" alt="TCP 三次握手图解"></p>
-<p>建立一个 TCP 连接需要“三次握手”，缺一不可：</p>
-<ul>
-<li><strong>一次握手</strong>:客户端发送带有 SYN（SEQ=x） 标志的数据包 -&gt; 服务端，然后客户端进入 <strong>SYN_SEND</strong> 状态，等待服务端的确认；</li>
-<li><strong>二次握手</strong>:服务端发送带有 SYN+ACK(SEQ=y,ACK=x+1) 标志的数据包 –&gt; 客户端,然后服务端进入 <strong>SYN_RECV</strong> 状态；</li>
-<li><strong>三次握手</strong>:客户端发送带有 ACK(ACK=y+1) 标志的数据包 –&gt; 服务端，然后客户端和服务端都进入<strong>ESTABLISHED</strong> 状态，完成 TCP 三次握手。</li>
-</ul>
-<p>当建立了 3 次握手之后，客户端和服务端就可以传输数据啦！</p>
-<h3>什么是半连接队列和全连接队列？</h3>
-<p>在 TCP 三次握手过程中，Linux 内核会维护两个队列来管理连接请求：</p>
-<ol>
-<li><strong>半连接队列</strong>（也称 SYN Queue）：当服务端收到客户端的 SYN 请求时，此时双方还没有完全建立连接，它会把半连接状态的连接放在半连接队列。</li>
-<li><strong>全连接队列</strong>（也称 Accept Queue）：当服务端收到客户端对 ACK 响应时，意味着三次握手成功完成，服务端会将该连接从半连接队列移动到全连接队列。如果未收到客户端的 ACK 响应，会进行重传，重传的等待时间通常是指数增长的。如果重传次数超过系统规定的最大重传次数，系统将从半连接队列中删除该连接信息。</li>
-</ol>
-<p>这两个队列的存在是为了处理并发连接请求，确保服务端能够有效地管理新的连接请求。另外，新的连接请求被拒绝或忽略除了和每个队列的大小限制有关系之外，还和很多其他因素有关系，这里就不详细介绍了，整体逻辑比较复杂。</p>
-<h3>为什么要三次握手?</h3>
-<p>三次握手的目的是建立可靠的通信信道，说到通讯，简单来说就是数据的发送与接收，而三次握手最主要的目的就是双方确认自己与对方的发送与接收是正常的。</p>
-<ol>
-<li><strong>第一次握手</strong>：Client 什么都不能确认；Server 确认了对方发送正常，自己接收正常</li>
-<li><strong>第二次握手</strong>：Client 确认了：自己发送、接收正常，对方发送、接收正常；Server 确认了：对方发送正常，自己接收正常</li>
-<li><strong>第三次握手</strong>：Client 确认了：自己发送、接收正常，对方发送、接收正常；Server 确认了：自己发送、接收正常，对方发送、接收正常</li>
-</ol>
-<p>三次握手就能确认双方收发功能都正常，缺一不可。</p>
-<p>更详细的解答可以看这个：<a href="https://www.zhihu.com/question/24853633/answer/115173386" target="_blank" rel="noopener noreferrer">TCP 为什么是三次握手，而不是两次或四次？ - 车小胖的回答 - 知乎</a> 。</p>
-<h3>第 2 次握手传回了 ACK，为什么还要传回 SYN？</h3>
-<p>服务端传回发送端所发送的 ACK 是为了告诉客户端：“我接收到的信息确实就是你所发送的信号了”，这表明从客户端到服务端的通信是正常的。回传 SYN 则是为了建立并确认从服务端到客户端的通信。</p>
-<blockquote>
-<p>SYN 同步序列编号(Synchronize Sequence Numbers) 是 TCP/IP 建立连接时使用的握手信号。在客户机和服务端之间建立正常的 TCP 网络连接时，客户机首先发出一个 SYN 消息，服务端使用 SYN-ACK 应答表示接收到了这个消息，最后客户机再以 ACK(Acknowledgement）消息响应。这样在客户机和服务端之间才能建立起可靠的 TCP 连接，数据才可以在客户机和服务端之间传递。</p>
-</blockquote>
-<h3>三次握手过程中可以携带数据吗？</h3>
-<p>在 TCP 三次握手过程中，第三次握手是可以携带数据的(客户端发送完 ACK 确认包之后就进入 ESTABLISHED 状态了)，这一点在 RFC 793 文档中有提到。也就是说，一旦完成了前两次握手，TCP 协议允许数据在第三次握手时开始传输。</p>
-<p>如果第三次握手的 ACK 确认包丢失，但是客户端已经开始发送携带数据的包，那么服务端在收到这个携带数据的包时，如果该包中包含了 ACK 标记，服务端会将其视为有效的第三次握手确认。这样，连接就被认为是建立的，服务端会处理该数据包，并继续正常的数据传输流程。</p>
-<h2>断开连接-TCP 四次挥手</h2>
-<p><img src="https://oss.javaguide.cn/github/javaguide/cs-basics/network/tcp-waves-four-times.png" alt="TCP 四次挥手图解"></p>
-<p>断开一个 TCP 连接则需要“四次挥手”，缺一不可：</p>
-<ol>
-<li><strong>第一次挥手</strong>：客户端发送一个 FIN（SEQ=x） 标志的数据包-&gt;服务端，用来关闭客户端到服务端的数据传送。然后客户端进入 <strong>FIN-WAIT-1</strong> 状态。</li>
-<li><strong>第二次挥手</strong>：服务端收到这个 FIN（SEQ=X） 标志的数据包，它发送一个 ACK （ACK=x+1）标志的数据包-&gt;客户端 。然后服务端进入 <strong>CLOSE-WAIT</strong> 状态，客户端进入 <strong>FIN-WAIT-2</strong> 状态。</li>
-<li><strong>第三次挥手</strong>：服务端发送一个 FIN (SEQ=y)标志的数据包-&gt;客户端，请求关闭连接，然后服务端进入 <strong>LAST-ACK</strong> 状态。</li>
-<li><strong>第四次挥手</strong>：客户端发送 ACK (ACK=y+1)标志的数据包-&gt;服务端，然后客户端进入<strong>TIME-WAIT</strong>状态，服务端在收到 ACK (ACK=y+1)标志的数据包后进入 CLOSE 状态。此时如果客户端等待 <strong>2MSL</strong> 后依然没有收到回复，就证明服务端已正常关闭，随后客户端也可以关闭连接了。</li>
-</ol>
-<p><strong>只要四次挥手没有结束，客户端和服务端就可以继续传输数据！</strong></p>
-<h3>为什么要四次挥手？</h3>
-<p>TCP 是全双工通信，可以双向传输数据。任何一方都可以在数据传送结束后发出连接释放的通知，待对方确认后进入半关闭状态。当另一方也没有数据再发送的时候，则发出连接释放通知，对方确认后就完全关闭了 TCP 连接。</p>
-<p>举个例子：A 和 B 打电话，通话即将结束后。</p>
-<ol>
-<li><strong>第一次挥手</strong>：A 说“我没啥要说的了”</li>
-<li><strong>第二次挥手</strong>：B 回答“我知道了”，但是 B 可能还会有要说的话，A 不能要求 B 跟着自己的节奏结束通话</li>
-<li><strong>第三次挥手</strong>：于是 B 可能又巴拉巴拉说了一通，最后 B 说“我说完了”</li>
-<li><strong>第四次挥手</strong>：A 回答“知道了”，这样通话才算结束。</li>
-</ol>
-<h3>为什么不能把服务端发送的 ACK 和 FIN 合并起来，变成三次挥手？</h3>
-<p>因为服务端收到客户端断开连接的请求时，可能还有一些数据没有发完，这时先回复 ACK，表示接收到了断开连接的请求。等到数据发完之后再发 FIN，断开服务端到客户端的数据传送。</p>
-<h3>如果第二次挥手时服务端的 ACK 没有送达客户端，会怎样？</h3>
-<p>客户端没有收到 ACK 确认，会重新发送 FIN 请求。</p>
-<h3>为什么第四次挥手客户端需要等待 2*MSL（报文段最长寿命）时间后才进入 CLOSED 状态？</h3>
-<p>第四次挥手时，客户端发送给服务端的 ACK 有可能丢失，如果服务端因为某些原因而没有收到 ACK 的话，服务端就会重发 FIN，如果客户端在 2*MSL 的时间内收到了 FIN，就会重新发送 ACK 并再次等待 2MSL，防止 Server 没有收到 ACK 而不断重发 FIN。</p>
-<blockquote>
-<p><strong>MSL(Maximum Segment Lifetime)</strong> : 一个片段在网络中最大的存活时间，2MSL 就是一个发送和一个回复所需的最大时间。如果直到 2MSL，Client 都没有再次收到 FIN，那么 Client 推断 ACK 已经被成功接收，则结束 TCP 连接。</p>
-</blockquote>
-<h2>参考</h2>
-<ul>
-<li>
-<p>《计算机网络（第 7 版）》</p>
-</li>
-<li>
-<p>《图解 HTTP》</p>
-</li>
-<li>
-<p>TCP and UDP Tutorial：<a href="https://www.9tut.com/tcp-and-udp-tutorial" target="_blank" rel="noopener noreferrer">https://www.9tut.com/tcp-and-udp-tutorial</a></p>
-</li>
-<li>
-<p>从一次线上问题说起，详解 TCP 半连接队列、全连接队列：<a href="https://mp.weixin.qq.com/s/YpSlU1yaowTs-pF6R43hMw" target="_blank" rel="noopener noreferrer">https://mp.weixin.qq.com/s/YpSlU1yaowTs-pF6R43hMw</a></p>
-</li>
-</ul>
-<p><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号"></p>
-]]></content:encoded>
-      <enclosure url="https://oss.javaguide.cn/github/javaguide/cs-basics/network/tcp-shakes-hands-three-times.png" type="image/png"/>
     </item>
   </channel>
 </rss>
